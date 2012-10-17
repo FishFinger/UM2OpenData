@@ -1,0 +1,38 @@
+Component [VEVENT]
+	Property [DTSTART, 20121220T131500]
+	Property [DTEND, 20121220T144500]
+	Property [SUMMARY, TD GMIN309]
+	Property [DTSTAMP, 20120928T104751Z]
+	Property [UID, edt-15315-0]
+	Property [DESCRIPTION, Salle : TD 16.06  
+			Enseignants :  
+			Cours : TD GMIN309
+			Etudiants : M2 AIGLE GMIN309 M2 DECOL GMIN309  
+			Formations/UV : 
+		]
+	Property [LOCATION, TD 16.06  ]
+		Add [TRUE_ROOM, TD 16.06]
+		Add [BATIMENT, http://linkedgeodata.org/page/triplify/way76356405]
+	Property [URL, http://planning.univ-montp2.fr/ade/custom/modules/plannings/eventInfo.jsp?eventId=15315]
+
+
+                                                                                                    ... <-- description --|
+                                                                                                                          |
+                                                                                                   Batiment 16 <-- name --|
+                                                                                                                          |
+------------                         |----------|                               |--------|                       |----------|
+|  Course  | <---- relatedto ------- |  Classs  | -------- takesplacein ------> |  Room  |  ----- locatedin ---> | Building |-----|
+------------                         |----------|             (place)           |--------|                       |----------|     |
+					  |                                                                                   geolocation
+              |----------------------------------------------type?!----...                                                        |
+              |             |                           |    (TD,CM,TP)                                          |-----------|----|
+             time      description                     uid                                                       |    Way    |
+              |             |                           |                                                        |-----------|
+              |             |-->Property[DESCRIPTION]   |-->edt-15315-0                                          (way76356405)
+|-------------------|   
+|  TemporaryEntity  |
+|-------------------|
+  |
+  | |-----hadBeginning---> Instant -----inXSDDateTime----->2012-12-20T13:15:00
+  --|
+    |-----hasEnd---------> Instant -----inXSDDateTime----->2012-12-20T14:45:00
