@@ -6,7 +6,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix ev: <http://purl.org/NET/c4dm/event.owl#> .
-@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geo: <http://localhost/ontologies/UM2opendata/linkedgeodata.owl> .
 @prefix swrc: <http://ontoware.org/swrc/swrc_v0.3.owl#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @base <http://localhost/UM2opendata/docs/my-ontology.owl> .
