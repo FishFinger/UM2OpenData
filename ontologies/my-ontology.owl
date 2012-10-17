@@ -33,6 +33,9 @@
         <Class IRI="#Course"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Responsible"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Room"/>
     </Declaration>
     <Declaration>
@@ -45,11 +48,18 @@
         <ObjectProperty IRI="#locatedin"/>
     </Declaration>
     <Declaration>
+        <ObjectProperty IRI="#managedby"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#relatedto"/>
     </Declaration>
     <SubClassOf>
         <Class IRI="#Class"/>
         <Class abbreviatedIRI="ev:Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Responsible"/>
+        <Class abbreviatedIRI="swrc:FullProfessor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Teacher"/>
@@ -64,6 +74,10 @@
         <Class IRI="#Room"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
+        <ObjectProperty IRI="#managedby"/>
+        <Class IRI="#Course"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
         <ObjectProperty IRI="#relatedto"/>
         <Class IRI="#Class"/>
     </ObjectPropertyDomain>
@@ -74,6 +88,10 @@
     <ObjectPropertyRange>
         <ObjectProperty IRI="#locatedin"/>
         <Class IRI="#Building"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#managedby"/>
+        <Class IRI="#Responsible"/>
     </ObjectPropertyRange>
 </Ontology>
 
