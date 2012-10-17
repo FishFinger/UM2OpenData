@@ -16,19 +16,65 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      ontologyIRI="http://localhost/UM2opendata/ontologies/my-ontology.owl">
-    <Prefix name="lgdm" IRI="http://localhost/UM2opendata/ontologies/ontologie-geodata.owl"/>
+    <Prefix name="lgdm" IRI="http://linkedgeodata.org/ontology/"/>
     <Prefix name="ev" IRI="http://purl.org/NET/c4dm/event.owl#"/>
+    <Prefix name="swrc" IRI="http://swrc.ontoware.org/ontology#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Declaration>
+        <Class IRI="#Building"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Class"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Course"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Room"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Teacher"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#geolocation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#locatedin"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#relatedto"/>
     </Declaration>
     <SubClassOf>
         <Class IRI="#Class"/>
         <Class abbreviatedIRI="ev:Event"/>
     </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Teacher"/>
+        <Class abbreviatedIRI="swrc:AcademicStaff"/>
+    </SubClassOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#geolocation"/>
+        <Class IRI="#Building"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#locatedin"/>
+        <Class IRI="#Room"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#relatedto"/>
+        <Class IRI="#Class"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#geolocation"/>
+        <Class abbreviatedIRI="lgdm:Way"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#locatedin"/>
+        <Class IRI="#Building"/>
+    </ObjectPropertyRange>
 </Ontology>
 
 
