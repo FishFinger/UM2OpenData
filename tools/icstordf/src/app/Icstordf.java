@@ -12,6 +12,7 @@ import edu.emory.mathcs.backport.java.util.LinkedList;
 
 import resources.ConvertTime;
 import resources.RoomLocation;
+import resources.UesMatching;
 
 import net.fortuna.ical4j.data.CalendarBuilder;
 import net.fortuna.ical4j.data.ParserException;
@@ -143,6 +144,12 @@ public class Icstordf {
 			System.out.println("\t\t\t\t</ev:hasEnd>");
 			System.out.println("\t\t\t</ev:Interval>");
 			System.out.println("\t\t</ev:time>");
+			List<String> UE = UesMatching.deduceUeNumber(values.get("SUMMARY").get(0));
+			if(!UE.isEmpty()){
+				for (String string : UE) {
+					System.out.println("\t\t<mo:relatedto>"+Icstordf.BASE_DATA_URI+"Course/"+UE+"</mo:relatedto>");
+				}
+			}
 			System.out.println("\t</rdf:Description>");
 
 		}
