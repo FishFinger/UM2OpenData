@@ -76,6 +76,8 @@ class Listener
     # /ruby/docs/../class => /ruby/class
     uri.sub!(/\/[^\/]+\/\.\.\//, "/") 
     puts "\n<rdf:Description rdf:about='#{uri}'>"
+    puts "\t<rdf:type rdf:resource='foaf:Person' />"
+    puts "\t<rdfs:isDefinedBy rdf:resource='#{LIRMM_DIR_URI}' />"
   end
 
   def lastname(attr)
@@ -119,9 +121,13 @@ end
 #########################################################################$
 # MAIN
 
+LIRMM_DIR_URI = "http://localhost/UM2opendata/lirmm_dir_0.2.rdf#"
+
 puts "<rdf:RDF
   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
   xmlns:foaf='http://xmlns.com/foaf/0.1/'
+  xmlns:lirmm_dir='#{LIRMM_DIR_URI}'
 >
 " 
 
