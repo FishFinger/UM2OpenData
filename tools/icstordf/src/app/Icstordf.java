@@ -100,50 +100,50 @@ public class Icstordf {
 
 			System.out.println("<!-- NEW VEVENT -->");
 
-			System.out.println("<rdf:Description");
-			System.out.println("rdf:about=\"" + values.get("URL").get(0)
+			System.out.println("\t<rdf:Description");
+			System.out.println("\t\trdf:about=\"" + values.get("URL").get(0)
 					+ "\">");
-			System.out.println("<rdfs:isDefinedBy>" + Icstordf.BASE_DATA_URI
+			System.out.println("\t\t<rdfs:isDefinedBy>" + Icstordf.BASE_DATA_URI
 					+ "Classs/" + values.get("UID").get(0)
 					+ "</rdfs:isDefinedBy>");
-			System.out.println("<rdf:type>mo:Classs</rdf:type>");
-			System.out.println("<rdfs:label>" + values.get("SUMMARY").get(0)
+			System.out.println("\t\t<rdf:type rdf:resource=\"mo:Classs\" />");
+			System.out.println("\t\t<rdfs:label>" + values.get("SUMMARY").get(0)
 					+ "</rdfs:label>");
-			System.out.println("<rdfs:comment><![CDATA["
+			System.out.println("\t\t<rdfs:comment><![CDATA["
 					+ values.get("DESCRIPTION").get(0) + "]]></rdfs:comment>");
 			for (int i = 0; i < values.get("TRUE_ROOM").size(); ++i) {
-				System.out.println("<mo:takesplacein>");
-				System.out.println("<mo:Room>");
-				System.out.println("<rdfs:label>"
+				System.out.println("\t\t<mo:takesplacein>");
+				System.out.println("\t\t\t<mo:Room>");
+				System.out.println("\t\t\t\t<rdfs:label>"
 						+ values.get("TRUE_ROOM").get(i) + "</rdfs:label>");
-				System.out.println("<mo:locatedin");
-				System.out.println("rdf:resource=\""
+				System.out.println("\t\t\t\t<mo:locatedin");
+				System.out.println("\t\t\t\t\trdf:resource=\""
 						+ Icstordf.BASE_DATA_URI
 						+ "Building/"
 						+ RoomLocation.getBatimentNumber(values
 								.get("TRUE_ROOM").get(i)) + "\" />");
-				System.out.println("</mo:Room>");
-				System.out.println("</mo:takesplacein>");
+				System.out.println("\t\t\t</mo:Room>");
+				System.out.println("\t\t</mo:takesplacein>");
 			}
-			System.out.println("<ev:time>");
-			System.out.println("<ev:Interval>");
-			System.out.println("<ev:hasBeginning>");
-			System.out.println("<ev:Instant>");
-			System.out.println("<time:inXSDDateTime>"
+			System.out.println("\t\t<ev:time>");
+			System.out.println("\t\t\t<ev:Interval>");
+			System.out.println("\t\t\t\t<ev:hasBeginning>");
+			System.out.println("\t\t\t\t\t<ev:Instant>");
+			System.out.println("\t\t\t\t\t\t<time:inXSDDateTime>"
 					+ ConvertTime.convertTimeFromIcsToXsd(values.get("DTSTART")
 							.get(0)) + "</time:inXSDDateTime>");
-			System.out.println("</ev:Instant>");
-			System.out.println("</ev:hasBeginning>");
-			System.out.println("<ev:hasEnd>");
-			System.out.println("<ev:Instant>");
-			System.out.println("<time:inXSDDateTime>"
+			System.out.println("\t\t\t\t\t</ev:Instant>");
+			System.out.println("\t\t\t\t</ev:hasBeginning>");
+			System.out.println("\t\t\t\t<ev:hasEnd>");
+			System.out.println("\t\t\t\t\t<ev:Instant>");
+			System.out.println("\t\t\t\t\t\t<time:inXSDDateTime>"
 					+ ConvertTime.convertTimeFromIcsToXsd(values.get("DTEND")
 							.get(0)) + "</time:inXSDDateTime>");
-			System.out.println("</ev:Instant>");
-			System.out.println("</ev:hasEnd>");
-			System.out.println("</ev:Interval>");
-			System.out.println("</ev:time>");
-			System.out.println("</rdf:Description>");
+			System.out.println("\t\t\t\t\t</ev:Instant>");
+			System.out.println("\t\t\t\t</ev:hasEnd>");
+			System.out.println("\t\t\t</ev:Interval>");
+			System.out.println("\t\t</ev:time>");
+			System.out.println("\t</rdf:Description>");
 
 		}
 	}
