@@ -33,6 +33,45 @@ Component [VEVENT]
 |  TemporaryEntity  |
 |-------------------|
   |
-  | |-----hadBeginning---> Instant -----inXSDDateTime----->2012-12-20T13:15:00
+  | |-----hasBeginning---> Instant -----inXSDDateTime----->2012-12-20T13:15:00
   --|
     |-----hasEnd---------> Instant -----inXSDDateTime----->2012-12-20T14:45:00
+
+ <?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:ev="http://purl.org/NET/c4dm/event.owl#"
+xmlns:time="http://w3c.org/2006/time/#"
+xmlns:mo="http://localhost/UM2opendata/ontologies/my-ontology.owl#">
+
+	<rdf:Description rdf:about="http://planning.univ-montp2.fr/ade/custom/modules/plannings/eventInfo.jsp?eventId=15315">
+		<rdfs:isDefinedBy>http://localhost/UM2opendata/data/Classs/edt-15315-0</rdfs:isDefinedBy>
+		<rdf:type>mo:Classs</rdf:type>
+		<rdfs:label>TD GMIN309</rdfs:label> <!-- SUMMARY -->
+		<rdfs:comment>...</rdfs:comment> <!-- DESCRIPTION -->
+		<mo:takesplacein>
+			<rdf:Bag>
+				<mo:Room>
+					<mo:locatedin rdf:resource="http://localhost/UM2opendata/data/Building/bat16" />
+				</mo:Room>
+			</rdf:Bag>
+		</mo:takesplacein>
+		<ev:time>
+			<ev:Interval>
+				<ev:hasBeginning>
+					<ev:Instant>
+					<time:inXSDDateTime>2012-12-20T13:15:00</time:inXSDDateTime>
+					</ev:Instant>
+				</ev:hasBeginning>
+				<ev:hasEnd>
+					<ev:Instant>
+					<time:inXSDDateTime>2012-12-20T14:45:00</time:inXSDDateTime>
+					</ev:Instant>
+				</ev:hasEnd>
+			</ev:Interval>
+		</ev:time>
+	</rdf:Description>
+
+</rdf:RDF>
