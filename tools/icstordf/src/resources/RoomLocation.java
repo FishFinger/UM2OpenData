@@ -78,11 +78,19 @@ public class RoomLocation {
 		return list;
 	}
 	
-	private static String getBatiment(String name) {
+	public static String getBatiment(String name) {
 		Pattern p = Pattern.compile("([0-9]{1,2})",
 				Pattern.CASE_INSENSITIVE);
 		Matcher m = p.matcher(name);
 		
 		return (m.find())? RoomLocation.matches.get(m.group(0)) : "";
+	}
+	
+	public static String getBatimentNumber(String name) {
+		Pattern p = Pattern.compile("([0-9]{1,2})",
+				Pattern.CASE_INSENSITIVE);
+		Matcher m = p.matcher(name);
+		
+		return (m.find())? (String)m.group(0) : "";
 	}
 }
