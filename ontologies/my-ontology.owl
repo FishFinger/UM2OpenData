@@ -16,12 +16,13 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      ontologyIRI="http://localhost/UM2opendata/ontologies/my-ontology.owl">
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="lgdm" IRI="http://linkedgeodata.org/ontology/"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Prefix name="ev" IRI="http://purl.org/NET/c4dm/event.owl#"/>
     <Prefix name="swrc" IRI="http://swrc.ontoware.org/ontology#"/>
-    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
-    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Declaration>
         <Class IRI="#Building"/>
@@ -31,6 +32,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Course"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Education"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Responsible"/>
@@ -107,6 +111,10 @@
     <ObjectPropertyRange>
         <ObjectProperty IRI="#managedby"/>
         <Class IRI="#Responsible"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#relatedto"/>
+        <Class IRI="#Course"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#takesplacein"/>
