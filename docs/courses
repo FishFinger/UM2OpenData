@@ -4,4 +4,5 @@
 	<rdfs:label>Nom de l'UE</rdfs:label>
 	<rdfs:comment><![CDATA[Description de l'UE si il y a ! ]]></rdfs:comment>
 	<mo:ECTS>2.5</mo:ECTS>
+	<mo:managedby rdf:resource="http://localhost/UM2opendata/data/Teacher/id_teacher" />
 </rdf:Desciption>

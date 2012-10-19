@@ -34,9 +34,6 @@
         <Class IRI="#Course"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Responsible"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Room"/>
     </Declaration>
     <Declaration>
@@ -63,10 +60,6 @@
     <SubClassOf>
         <Class IRI="#Classs"/>
         <Class abbreviatedIRI="ev:Event"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Responsible"/>
-        <Class abbreviatedIRI="swrc:FullProfessor"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Room"/>
@@ -110,7 +103,7 @@
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#managedby"/>
-        <Class IRI="#Responsible"/>
+        <Class IRI="#Teacher"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#relatedto"/>
