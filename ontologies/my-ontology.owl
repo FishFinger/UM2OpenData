@@ -34,9 +34,6 @@
         <Class IRI="#Course"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Education"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Responsible"/>
     </Declaration>
     <Declaration>
@@ -59,6 +56,9 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#takesplacein"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#ECTS"/>
     </Declaration>
     <SubClassOf>
         <Class IRI="#Classs"/>
@@ -120,6 +120,14 @@
         <ObjectProperty IRI="#takesplacein"/>
         <Class IRI="#Room"/>
     </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="#ECTS"/>
+        <Class IRI="#Course"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#ECTS"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
 </Ontology>
 
 
