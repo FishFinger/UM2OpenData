@@ -147,7 +147,7 @@ public class Icstordf {
 			List<String> UE = UesMatching.deduceUeNumber(values.get("SUMMARY").get(0));
 			if(!UE.isEmpty()){
 				for (String string : UE) {
-					System.out.println("\t\t<mo:relatedto>"+Icstordf.BASE_DATA_URI+"Course/"+UE+"</mo:relatedto>");
+					System.out.println("\t\t<mo:relatedto>"+Icstordf.BASE_DATA_URI+"Course/"+UE.get(0)+"</mo:relatedto>");
 				}
 			}
 			System.out.println("\t</rdf:Description>");
