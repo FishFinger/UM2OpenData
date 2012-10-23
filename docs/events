@@ -52,11 +52,10 @@ xmlns:mo="http://localhost/UM2opendata/ontologies/my-ontology.owl#">
 		<rdfs:label>TD GMIN309</rdfs:label> <!-- SUMMARY -->
 		<rdfs:comment>...</rdfs:comment> <!-- DESCRIPTION -->
 		<mo:takesplacein>
-			<rdf:Bag>
-				<mo:Room>
-					<mo:locatedin rdf:resource="http://localhost/UM2opendata/data/Building/bat16" />
-				</mo:Room>
-			</rdf:Bag>
+			<mo:Room>
+				<rdfs:label>TD 16.06</rdfs:label>
+				<mo:locatedin rdf:resource="http://localhost/UM2opendata/data/Building/bat16" />
+			</mo:Room>
 		</mo:takesplacein>
 		<ev:time>
 			<ev:Interval>
