@@ -14,7 +14,7 @@ class Classs {
     private $time;  // Interval
     private $relatedto;  // Course 
 
-    public function __construct($uid, $label, $comment, $seeAlso, $takesplacein, Interval $time, Course $relatedto) {
+    public function __construct($uid = NULL, $label = NULL, $comment = NULL, $seeAlso = NULL, array $takesplacein = NULL, Interval $time = NULL, Course $relatedto = NULL) {
         $this->uid = $uid;
         $this->label = $label;
         $this->comment = $comment;
@@ -50,6 +50,35 @@ class Classs {
 
     public function getRelatedto() {
         return $this->relatedto;
+    }
+
+    public function setUid($uid) {
+        $this->uid = $uid;
+    }
+
+    public function setLabel($label) {
+        $this->label = $label;
+    }
+
+    public function setComment($comment) {
+        $this->comment = $comment;
+    }
+
+    public function setSeeAlso($seeAlso) {
+        $this->seeAlso = $seeAlso;
+    }
+
+    public function setTakesplacein(array $takesplacein) {
+        // TODO verifier le type des éléments de takesplacein (Room)
+        $this->takesplacein = $takesplacein;
+    }
+
+    public function setTime(Interval $time) {
+        $this->time = $time;
+    }
+
+    public function setRelatedto(Course $relatedto) {
+        $this->relatedto = $relatedto;
     }
 
     public function toFullString() {
