@@ -1,9 +1,9 @@
 <?php
-require_once dirname(__FILE__).'/Room.php';
-require_once dirname(__FILE__).'/Interval.php';
-require_once dirname(__FILE__).'/Course.php';
+require_once dirname(__FILE__).'/Room.class.php';
+require_once dirname(__FILE__).'/Interval.class.php';
+require_once dirname(__FILE__).'/Course.class.php';
 
-class Class {
+class Classs {
   private $uid;			// String
   private $label;		// String
   private $comment;		// String
@@ -48,5 +48,23 @@ class Class {
 
   public function getRelatedto() {
     return $this->relatedto;
+  }
+
+  public function toFullString() {
+    $tostring  = "Course uid          '".$this->getUid()."'\n";
+    $tostring .= "       label        '".$this->getLabel()."'\n";
+    $tostring .= "       comment      '".$this->getComment()."'\n";
+    $tostring .= "       seeAlso      '".$this->getSeeAlso()."'\n";
+    for($i = 0;$i<count($this->getTakesplacein());++$i) {
+      $tostring .= "       takesplacein '".$this->getTakesplacein()[$i]."'\n";
+    }
+    $tostring .= "       time         '".$this->getTime()."'\n";
+    $tostring .= "       relatedto    '".$this->getRelatedto()."'\n";
+
+    return $tostring;
+  }
+
+  public function __toString() {
+    return $this->getUid();
   }
 }

@@ -1,5 +1,5 @@
 <?php
-require_once './Instant.php';
+require_once dirname(__FILE__).'/Instant.class.php';
 
 class Interval {
   private $hasBeginning;	// Instant
@@ -16,5 +16,9 @@ class Interval {
 
   public function getHasEnd() {
     return $this->hasEnd;
+  }
+
+  public function __toString() {
+    return '['.$this->getHasBeginning().','.$this->getHasEnd().']';
   }
 }

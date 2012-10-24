@@ -1,5 +1,5 @@
 <?php
-require_once dirname(__FILE__).'/Person.php';
+require_once dirname(__FILE__).'/Person.class.php';
 
 class Course {
   private $id;		// String
@@ -28,5 +28,9 @@ class Course {
 
   public function getManagedby() {
     return $this->managedby;
+  }
+
+  public function __toString() {
+    return $this->getId();
   }
 }

@@ -46,4 +46,8 @@ class Person {
   public function getSeeAlso() {
     return $this->seeAlso;
   }
+
+  public function __toString() {
+    return $this->getId();
+  }
 }

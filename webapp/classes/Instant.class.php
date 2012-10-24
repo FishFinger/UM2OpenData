@@ -10,4 +10,8 @@ class Instant {
   public function getInXSDDateTime() {
     return $this->inXSDDateTime;
   }
+
+  public function __toString() {
+    return $this->getInXSDDateTime();
+  }
 }

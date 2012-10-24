@@ -3,7 +3,7 @@
 class Building {
   private $id;		// String
   private $label;	// String
-  private $geolocation	// String (Way URL)
+  private $geolocation;	// String (Way URL)
   
   public function __construct($id, $label, $geolocation) {
     $this->id = $id;
@@ -21,5 +21,9 @@ class Building {
 
   public function getGeolocation() {
     return $this->geolocation;
+  }
+
+  public function __toString() {
+    return $this->getId();
   }
 }

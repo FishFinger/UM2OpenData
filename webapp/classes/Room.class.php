@@ -1,10 +1,10 @@
 <?php
-require_once dirname(__FILE__).'/Building.php';
+require_once dirname(__FILE__).'/Building.class.php';
 
 class Room {
   private $id;		// String
   private $label;	// String
-  private $locatedin	// Building
+  private $locatedin;	// Building
   
   public function __construct($id, $label, Building $locatedin) {
     $this->id = $id;
@@ -22,5 +22,9 @@ class Room {
 
   public function getLocatedIn() {
     return $this->locatedin;
+  }
+
+  public function __toString() {
+    return $this->getId();
   }
 }
