@@ -1,29 +1,31 @@
 <?php
 
 class Building {
-  private $id;		// String
-  private $label;	// String
-  private $geolocation;	// String (Way URL)
-  
-  public function __construct($id, $label, $geolocation) {
-    $this->id = $id;
-    $this->label = $label;
-    $this->geolocation = $geolocation;
-  }
 
-  public function getId() {
-    return $this->id;
-  }
+    private $id;  // String
+    private $label; // String
+    private $geolocation; // String (Way URL)
 
-  public function getLabel() {
-    return $this->label;
-  }
+    public function __construct($id, $label, $geolocation) {
+        $this->id = $id;
+        $this->label = $label;
+        $this->geolocation = $geolocation;
+    }
 
-  public function getGeolocation() {
-    return $this->geolocation;
-  }
+    public function getId() {
+        return $this->id;
+    }
 
-  public function __toString() {
-    return $this->getId();
-  }
+    public function getLabel() {
+        return $this->label;
+    }
+
+    public function getGeolocation() {
+        return $this->geolocation;
+    }
+
+    public function __toString() {
+        return $this->getId();
+    }
+
 }
