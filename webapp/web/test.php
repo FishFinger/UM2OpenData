@@ -1,4 +1,4 @@
 <?php
-require_once dirname(__FILE__) . '/../repositories/ClasssRepository.class.php';
+require_once dirname(__FILE__) . '/../repositories/BuildingRepository.class.php';
 
-var_dump(ClasssRepository::getAll());
+var_dump(BuildingRepository::getAll());

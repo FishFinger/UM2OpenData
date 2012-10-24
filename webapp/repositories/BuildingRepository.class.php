@@ -9,7 +9,8 @@ class BuildingRepository {
 
     private static $fields = array(
         "http://ontology.um2opendata.thibautmarmin.fr#locatedin" => "setLocatedin",
-        "http://www.w3.org/2000/01/rdf-schema#label" => "setLabel");
+        "http://www.w3.org/2000/01/rdf-schema#label" => "setLabel",
+        "http://www.w3.org/2000/01/rdf-schema#comment" => "setComment");
 
     public static function retrieve($id) {
         $sparql = "

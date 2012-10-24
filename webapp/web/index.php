@@ -8,15 +8,10 @@ if( !$db ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
 
 
 $sparql = "
-SELECT DISTINCT ?property ?value ?tbeginning ?tend
-WHERE {
-  <http://um2opendata.thibautmarmin.fr/resource/Classs/test-test-012345> ?property ?value .
-  <http://um2opendata.thibautmarmin.fr/resource/Classs/test-test-012345> ev:time ?time .
-  ?time ev:hasBeginning ?beginning .
-  ?time ev:hasEnd ?end .
-  ?beginning time:inXSDDateTime ?tbeginning .
-  ?end time:inXSDDateTime ?tend .
+SELECT DISTINCT * WHERE {
+  <http://um2opendata.thibautmarmin.fr/resource/Building/1> ?predicate ?object
 }
+ORDER BY ?predicate
 ";
 $result = sparql_query( SPARQL_NS.$sparql );
 //var_dump($result);
