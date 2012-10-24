@@ -7,9 +7,9 @@ class Interval {
     private $hasBeginning; // Instant
     private $hasEnd;  // Instant
 
-    public function __construct(Instant $hasBeginning, Instant $hasEnd) {
-        $this->hasBeginning = $hasBeginning;
-        $this->hasEnd = $hasEnd;
+    public function __construct(Instant $hasBeginning = NULL, Instant $hasEnd = NULL) {
+        $this->setHasBeginning($hasBeginning);
+        $this->setHasEnd($hasEnd);
     }
 
     public function getHasBeginning() {
@@ -18,6 +18,14 @@ class Interval {
 
     public function getHasEnd() {
         return $this->hasEnd;
+    }
+
+    public function setHasBeginning($hasBeginning) {
+        $this->hasBeginning = $hasBeginning;
+    }
+
+    public function setHasEnd($hasEnd) {
+        $this->hasEnd = $hasEnd;
     }
 
     public function __toString() {
