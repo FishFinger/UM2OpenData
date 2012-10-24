@@ -19,9 +19,9 @@ class Classs {
         $this->setLabel($label);
         $this->setComment($comment);
         $this->setSeeAlso($seeAlso);
-        $this->setTakesplacein($takesplacein);
-        $this->setTime($time);
-        $this->setRelatedto($relatedto);
+        (isset($takesplacein)) ? $this->setTakesplacein($takesplacein) : $this->takesplacein = NULL;
+        (isset($time)) ? $this->setTime($time) : $this->time = NULL;
+        (isset($relatedto)) ? $this->setRelatedto($relatedto) : $this->relatedto = NULL;
     }
 
     public function getUid() {
@@ -71,6 +71,13 @@ class Classs {
     public function setTakesplacein(array $takesplacein) {
         // TODO verifier le type des éléments de takesplacein (Room)
         $this->takesplacein = $takesplacein;
+    }
+
+    public function addTakesplacein(Room $takesplacein) {
+        if (!isset($this->takesplacein))
+            $this->takesplacein = array();
+
+        array_push($this->takesplacein, $takesplacein);
     }
 
     public function setTime(Interval $time) {
