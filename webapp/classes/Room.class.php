@@ -8,10 +8,10 @@ class Room {
     private $label; // String
     private $locatedin; // Building
 
-    public function __construct($id, $label, Building $locatedin) {
-        $this->id = $id;
-        $this->label = $label;
-        $this->locatedin = $locatedin;
+    public function __construct($id = NULL, $label = NULL, Building $locatedin = NULL) {
+        $this->setId($id);
+        $this->setLabel($label);
+        $this->setLocatedIn($locatedin);
     }
 
     public function getId() {
@@ -24,6 +24,18 @@ class Room {
 
     public function getLocatedIn() {
         return $this->locatedin;
+    }
+
+    public function setId($id) {
+        $this->id = $id;
+    }
+
+    public function setLabel($label) {
+        $this->label = $label;
+    }
+
+    public function setLocatedIn($locatedin) {
+        $this->locatedin = $locatedin;
     }
 
     public function __toString() {
