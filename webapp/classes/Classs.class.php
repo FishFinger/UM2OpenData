@@ -15,13 +15,13 @@ class Classs {
     private $relatedto;  // Course 
 
     public function __construct($uid = NULL, $label = NULL, $comment = NULL, $seeAlso = NULL, array $takesplacein = NULL, Interval $time = NULL, Course $relatedto = NULL) {
-        $this->uid = $uid;
-        $this->label = $label;
-        $this->comment = $comment;
-        $this->seeAlso = $seeAlso;
-        $this->takesplacein = $takesplacein;
-        $this->time = $time;
-        $this->relatedto = $relatedto;
+        $this->setUid($uid);
+        $this->setLabel($label);
+        $this->setComment($comment);
+        $this->setSeeAlso($seeAlso);
+        $this->setTakesplacein($takesplacein);
+        $this->setTime($time);
+        $this->setRelatedto($relatedto);
     }
 
     public function getUid() {
