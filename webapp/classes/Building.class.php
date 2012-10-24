@@ -6,10 +6,10 @@ class Building {
     private $label; // String
     private $geolocation; // String (Way URL)
 
-    public function __construct($id = NULL, $label = NULL, $geolocation = NULL) {
+    public function __construct($id = NULL, $label = NULL, $locatedin = NULL) {
         $this->setId($id);
         $this->setLabel($label);
-        $this->setGeolocation($geolocation);
+        $this->setLocatedin($locatedin);
     }
 
     public function getId() {
@@ -20,7 +20,7 @@ class Building {
         return $this->label;
     }
 
-    public function getGeolocation() {
+    public function getLocatedin() {
         return $this->geolocation;
     }
 
@@ -32,8 +32,8 @@ class Building {
         $this->label = $label;
     }
 
-    public function setGeolocation($geolocation) {
-        $this->geolocation = $geolocation;
+    public function setLocatedin($locatedin) {
+        $this->geolocation = $locatedin;
     }
 
     public function __toString() {
