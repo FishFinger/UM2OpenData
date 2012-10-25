@@ -4,6 +4,7 @@ require_once dirname(__FILE__) . '/../conf.php';
 require_once dirname(__FILE__) . '/sparqlConnection.php';
 require_once dirname(__FILE__) . '/../libraries/sparqllib.php';
 require_once dirname(__FILE__) . '/../classes/Course.class.php';
+require_once dirname(__FILE__) . '/../repositories/PersonRepository.class.php';
 
 class CourseRepository {
 
