@@ -13,7 +13,7 @@ class Course {
         $this->setId($id);
         $this->setLabel($label);
         $this->setComment($comment);
-        $this->setManagedby($manegedby);
+        $this->setManagedby($managedby);
     }
 
     public function getId() {
