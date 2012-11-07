@@ -7,7 +7,7 @@
     </head>
 
     <body>
-        <form action="explore.php" method="get">
+        <form class="block" action="explore.php" method="get">
             RDF URL : <input name="repo" type="text" value="http://" />
             <select name="input_type">
                 <option value="rdfxml">RDF/XML</option>
@@ -18,5 +18,9 @@
             <hr/>
             <input type="submit" value="Graphizer" />
         </form>
+	<div id="help" class="block" >
+	<p><strong>+</strong> et <strong>-</strong> pour zoomer / dézoomer</p>
+        <p>Dragger l'image pour se déplacer</p>
+	</div>
     </body>
 </html>

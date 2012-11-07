@@ -11,4 +11,6 @@ $(document).ready(function() {
     }
     $("#graph").css("height",zoom+"em");
   });
+
+  $( "#graph" ).draggable({scroll: false});
 });

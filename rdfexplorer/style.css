@@ -6,15 +6,18 @@ body {
   background-position:center center;
 }
 
-form {
+.block{
   position: absolute;
   display:block;
+  background-color: black;
+  color: white;
+}
+
+form {
   left:20%;
   top:20%;
   width:60%;
-  background-color: black;
   text-align: center;
-  color: white;
 }
 
 form input[type=text]{
@@ -28,4 +31,12 @@ form select{
 
 form hr{
   border: 1px solid gray;
+}
+
+#help{
+  left:20%;
+  top:50%;
+  width: 60%;
+  text-align: center;
+  
 }
