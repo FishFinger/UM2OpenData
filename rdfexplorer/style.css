@@ -1,0 +1,31 @@
+body {
+  background-color:black;
+  background-image: url(img/background.jpg);
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-position:center center;
+}
+
+form {
+  position: absolute;
+  display:block;
+  left:20%;
+  top:20%;
+  width:60%;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+form input[type=text]{
+  width:80%;
+  margin-bottom: 5px;
+}
+
+form select{
+  width:20%;
+}
+
+form hr{
+  border: 1px solid gray;
+}

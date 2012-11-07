@@ -3,12 +3,12 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Test</title>
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen">
     </head>
 
     <body>
         <form action="explore.php" method="get">
-            Repository : <input name="repo" type="text" value="http://" />
-            <hr/>
+            RDF URL : <input name="repo" type="text" value="http://" />
             <select name="input_type">
                 <option value="rdfxml">RDF/XML</option>
                 <option value="ntriples">N-Triples</option>
