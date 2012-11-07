@@ -2,8 +2,9 @@
 	<h1>Réalisations</h1>
 	
 	<ul>
-		<li>lib PHP</li>
+		<li>D2RQ</li>
 		<li>RDF Explorer</li>
+		<li>Librairie PHP</li>
 	</ul>
 </div>
 
