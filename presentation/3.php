@@ -2,10 +2,10 @@
 	<h1>Scraping de données</h1>
 	
 	<ul>
-		<li>Enseignants</li>
-		<li>UEs (w3b)</li>
 		<li>Emploi du temps (ADE)</li>
 		<li>Batiments (LinkedGeoData)</li>
+		<li>Enseignants</li>
+		<li>UEs (w3b)</li>
 	</ul>
 </div>
 
@@ -60,7 +60,7 @@
 </div>
 
 <div class="slide">
-	<h1>Liaison de jeux données</h1>
+	<h1>Liaison de jeux de données</h1>
 	<p>Martin Dupont == DUPOND Martin ?</p>
 	<dl>
 		<dt>Mise en bas de casse</dt>
