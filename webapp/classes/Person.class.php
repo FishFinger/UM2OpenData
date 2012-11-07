@@ -76,6 +76,18 @@ class Person {
         $this->seeAlso = $seeAlso;
     }
 
+    public function toHTMLString() {
+        $tostring = "Person id:        " . $this->getId() . "<br />";
+        $tostring .= "firstname: " . $this->getFirstname() . "<br />";
+        $tostring .= "lastname: " . $this->getLastname() . "<br />";
+        $tostring .= "mbox: " . $this->getMbox() . "<br />";
+        $tostring .= "office: " . $this->getOffice() . "<br />";
+        $tostring .= "phone:   " . $this->getPhone() . "<br />";
+        $tostring .= "seeAlso: " . $this->getSeeAlso() . "<br />";
+        
+        return $tostring;
+    }
+    
     public function toFullString() {
         $tostring = "Person id        '" . $this->getId() . "'\n";
         $tostring .= "       firstname '" . $this->getFirstname() . "'\n";

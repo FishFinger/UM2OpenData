@@ -49,10 +49,16 @@ WHERE {
         return $classs;
     }
 
-    public static function listAll() {
+    public static function listAll($course = NULL) {
         $sparql = "
 SELECT DISTINCT * WHERE {
-  ?id rdf:type mo:Classs
+  ?id rdf:type mo:Classs.
+  ";
+     
+        if($course)
+          $sparql .= " ?id mo:relatedto <$course>.";
+
+          $sparql .= "
 }
 ORDER BY ?id";
 
@@ -67,8 +73,8 @@ ORDER BY ?id";
         return $list;
     }
 
-    public static function getAll() {
-        $ids = ClasssRepository::listAll();
+    public static function getAll($course = NULL) {
+        $ids = ClasssRepository::listAll($course);
         $list = array();
         foreach ($ids as $id) {
             array_push($list, ClasssRepository::retrieve($id));

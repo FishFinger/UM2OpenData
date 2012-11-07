@@ -29,7 +29,7 @@ class Interval {
     }
 
     public function __toString() {
-        return '[' . $this->getHasBeginning() . ',' . $this->getHasEnd() . ']';
+        return '[' . $this->getHasBeginning() . ' - ' . $this->getHasEnd() . ']';
     }
 
 }

@@ -1,9 +1,32 @@
 <?php
-
 require_once( "../libraries/sparqllib.php" );
 require_once "../conf.php";
 
-$db = sparql_connect( "http://um2opendata.thibautmarmin.fr/sparql" );
+require_once "../repositories/CourseRepository.class.php";
+
+
+$courses = CourseRepository::listAll();
+
+
+?>
+<form name="input" action="ue.php" method="post">
+  <select id="ue" name="ue">
+  <?php
+  foreach($courses as $course)
+    {
+      $id = preg_replace("@^.*/@","", $course);
+      echo "<option value='$course'>$id</option>";
+    }
+  ?>
+  </select>  
+<input type="submit" value="Submit">
+</form> 
+
+
+
+<?php
+
+/*$db = sparql_connect( "http://um2opendata.thibautmarmin.fr/sparql" );
 if( !$db ) { print sparql_errno() . ": " . sparql_error(). "\n"; exit; }
 
 
@@ -37,6 +60,6 @@ while( $row = sparql_fetch_array( $result ) )
 	}
 	print "</tr>";
 }
-print "</table>";
+print "</table>";*/
  
  ?>

@@ -10,7 +10,7 @@ class PersonRepository {
     private static $fields = array(
         "http://www.w3.org/2000/01/rdf-schema#seeAlso" => "setSeeAlso",
         "http://xmlns.com/foaf/0.1/firstName" => "setFirstname",
-        "http://xmlns.com/foaf/0.1/lastname" => "setLastname",
+        "http://xmlns.com/foaf/0.1/lastName" => "setLastname",
         "http://xmlns.com/foaf/0.1/mbox" => "setMbox",
         "http://xmlns.com/foaf/0.1/office" => "setOffice",
         "http://xmlns.com/foaf/0.1/phone" => "setPhone");
