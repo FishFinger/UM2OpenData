@@ -1,6 +1,5 @@
 <div class="slide">
-	<h1>UM2 Open Data</h1>
-	<h2>Scraping de données</h2>
+	<h1>Scraping de données</h1>
 	
 	<ul>
 		<li>Enseignants</li>

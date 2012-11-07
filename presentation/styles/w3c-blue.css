@@ -29,7 +29,7 @@ div.slide.titlepage h1 {
 
 div.slide {
   z-index: 20;
-  margin: 0 0 0 0;
+  margin: 2.1em 0 0 0em;
   padding: 0;
   border-width: 0;
   top: 0;
@@ -48,23 +48,15 @@ div.background {
   right: 0;
   top: 0;
   bottom: auto;
-  height: 4.1em;
-  padding: 0 0 0 0.2em;
-  margin: 0 0 0 0;
+  height: 2.1em;
+  padding: 0 0 0 0.1em;
+  margin: 0 0 0 -0.5em;
   border-width: 0;
   background-color: #728ec2;
 }
 
-div.background img {
-  padding-left: 0.5em;
-  height: 2em;
-}
-
-/* this rule is hidden from IE which doesn't support + selector */
-div.slide + div[class].slide { page-break-before: always;}
-
-div.slide h1 {
-  padding-left: 3em;
+div.background h1 {
+  padding-left: 1.5em;
   padding-right: 3em;
   padding-top: 0.1em;
   margin-bottom: 0;
@@ -76,6 +68,32 @@ div.slide h1 {
   height: 2.2em;
   font-size: 1.6em;
   line-height: 1.1em;
+}
+
+div.background img {
+  padding-left: 0.5em;
+  height: 1em;
+}
+
+/* this rule is hidden from IE which doesn't support + selector */
+div.slide + div[class].slide { page-break-before: always;}
+
+div.slide h1 {
+ /* position: relative;
+  left: 4em;
+  top: 2.1em;*/
+  padding-left: 1em;
+  padding-right: 3em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.8em;
+  margin-top: -0.05em;
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 0.95em;
+  line-height: 1.2em;
+  color: #728EC2;
+  background:  #C3CDE3;
 }
 
 div.slide h1 a {
@@ -103,33 +121,16 @@ div.slide h1 a:active {
   text-decoration: underline;
 }
 
-div.slide h2 {
-  position: relative;
-  left: 5em;
-  bottom: 2em;
-  padding-left: 1em;
-  padding-right: 3em;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  margin-bottom: 0.8em;
-  margin-top: -0.05em;
-  margin-left: 0;
-  margin-right: 0;
-  font-size: 0.95em;
-  line-height: 1.2em;
-  color: #728EC2;
-  background:  #C3CDE3;
 
-}
 
 #head-icon {
   margin-top: 0.5em;
   margin-bottom: 0;
-  margin-left: 0;
+  margin-left: 0.5em;
   margin-right: 1em;
   background:  #728ec2;
   border-width: 0;
-  height: 3em;
+  height: 1em;
   max-width: 3em;
   z-index: 2;
   float: left;

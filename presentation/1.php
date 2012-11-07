@@ -5,8 +5,7 @@
 </div>
 
 <div class="slide">
-	<h1>UM2 Open Data</h1>
-	<h2>Plan</h2>
+	<h1>Plan</h1>
 	
 	<ol>
 		<li>Présentation du projet</li>
@@ -17,8 +16,7 @@
 </div>
 	
 <div class="slide">
-	<h1>UM2 Open Data</h1>
-	<h2>Objectif</h2>
+	<h1>Objectif</h1>
 	
 	<h3>Mise en ligne des infos de l'UM2</h3>
 
@@ -32,8 +30,7 @@
 
 
 <div class="slide">
-	<h1>UM2 Open Data</h1>
-	<h2>Objectif</h2>
+	<h1>Objectif</h1>
 	
 	<h3>Solutions techniques</h3>
 

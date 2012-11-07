@@ -19,6 +19,7 @@
 <body>
 <div class="background">
 	<img alt="" id="head-icon" src="graphics/icon-blue.png" />
+	<h1>UM2 Open Data</h1>
 </div>
 
 <?php include '1.php' ?>
