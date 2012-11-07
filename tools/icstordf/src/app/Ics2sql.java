@@ -27,9 +27,10 @@ public class Ics2sql {
 
 	/**
 	 * @param args
+	 * @throws Exception 
 	 */
-	public static void main(String[] args) {
-
+	public static void main(String[] args) throws Exception {
+		System.out.println("/*");
 		FileInputStream file = null;
 
 		try {
@@ -37,21 +38,24 @@ public class Ics2sql {
 			file = new FileInputStream(args[0]);
 			CalendarBuilder builder = new CalendarBuilder();
 			Calendar calendar = builder.build(file);
+			
+			System.out.println("*/");
 
-			Icstordf.printEntete();
+			Ics2sql.printEntete();
 
 			int nb_vevent = 0;
 
 			for (Iterator i = calendar.getComponents().iterator(); i.hasNext();) {
 				Component component = (Component) i.next();
-				if (!Icstordf.DEBUG || Math.random() < 0.05) {
-					Icstordf.printElement(component);
+				if (!Ics2sql.DEBUG || Math.random() < 0.05) {
+					Ics2sql.printElement(component);
 					++nb_vevent;
 				}
 			}
 		} catch (Exception e) {
 			System.err
 					.println("Erreur lors de l'execution : " + e.getMessage());
+			throw e;
 		}
 	}
 
@@ -91,20 +95,20 @@ public class Ics2sql {
 
 			System.out.println(
 					"('" 
-					+ values.get("UID").get(0) + "', "
-					+ values.get("SUMMARY").get(0) + "', "
-					+ ConvertTime.convertTimeFromIcsToXsd(values.get("DTSTART").get(0)) + "', "
-					+ ConvertTime.convertTimeFromIcsToXsd(values.get("DTEND").get(0)) + "', "
+					+ values.get("UID").get(0) + "', '"
+					+ values.get("SUMMARY").get(0) + "', '"
+					+ ConvertTime.convertTimeFromIcsToXsd(values.get("DTSTART").get(0)) + "', '"
+					+ ConvertTime.convertTimeFromIcsToXsd(values.get("DTEND").get(0)) + "', '"
 					+ values.get("DESCRIPTION").get(0) + "', "
                                 );
                         List<String> UE = UesMatching.deduceUeNumber(values.get("SUMMARY").get(0));
 			if(!UE.isEmpty()){
 				System.out.println("'"+UE.get(0)+"'");
 			}else{
-                            System.out.println("''");
+                            System.out.println("NULL");
                         }
                         
-                        System.out.print(")");
+                        System.out.println("),");
                                 
 				
 
