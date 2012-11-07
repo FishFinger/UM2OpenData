@@ -15,7 +15,7 @@
 		<li>Présentation du projet</li>
 		<li>Modèle des données</li>
 		<li>Scraping des données</li>
-		<li>Réalisation</li>
+		<li>Réalisations</li>
 	</ol>
 </div>
 	
