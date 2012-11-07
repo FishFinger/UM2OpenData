@@ -4,7 +4,6 @@ require_once "../conf.php";
 
 require_once "../repositories/CourseRepository.class.php";
 
-include "header.php";
 
 $ue = CourseRepository::retrieve($_REQUEST["ue"]);
 $id = preg_replace("@^.*/@","", $ue->getId());
@@ -16,7 +15,10 @@ $id = preg_replace("@^.*/@","", $ue->getId());
   <dt>Responsable</dt>
   <dd><?php 
   if($ue->getManagedby())
-    echo $ue->getManagedby()->getFirstname()." ".$ue->getManagedby()->getLastname(); 
+    {
+      echo $ue->getManagedby()->toHTMLString(); 
+      
+    }
   ?></dd>
   
   <dt>Commentaire</dt>
@@ -35,6 +37,4 @@ foreach ($classes as $class)
  </dd>
 </dl>  
 
-  <?php
-include "footer.php";
-?>
+

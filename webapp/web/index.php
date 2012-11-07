@@ -8,6 +8,7 @@ require_once "../repositories/ClasssRepository.class.php";
 
 $courses = CourseRepository::listAll();
 
+include "header.php";
 
 ?>
 <form name="input" action="index.php" method="post">
@@ -31,3 +32,6 @@ if(isset($_REQUEST["ue"]))
   include("ue.php");
 ?>
 
+  <?php
+include "footer.php";
+?>
