@@ -3,7 +3,6 @@ require_once( "../libraries/sparqllib.php" );
 require_once "../conf.php";
 
 require_once "../repositories/CourseRepository.class.php";
-require_once "../repositories/ClasssRepository.class.php";
 
 include "header.php";
 
@@ -15,7 +14,10 @@ $id = preg_replace("@^.*/@","", $ue->getId());
 
 <dl>
   <dt>Responsable</dt>
-  <dd><?php echo $ue->getManagedby()->getFirstname()." ".$ue->getManagedby()->getLastname(); ?></dd>
+  <dd><?php 
+  if($ue->getManagedby())
+    echo $ue->getManagedby()->getFirstname()." ".$ue->getManagedby()->getLastname(); 
+  ?></dd>
   
   <dt>Commentaire</dt>
   <dd><?= $ue->getComment(); ?></dd>
