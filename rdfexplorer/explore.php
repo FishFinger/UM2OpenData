@@ -6,10 +6,13 @@ include 'lib/map.php'
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Test</title>
+	<link rel="stylesheet" href="style-result.css" type="text/css" media="screen">
+        <script type="text/javascript" src="jquery.js" language="Javascript"></script>
+        <script type="text/javascript" src="script.js" language="Javascript"></script>
     </head>
 
     <body>
-        <img src="lib/graph.php?repo=<?php echo $_GET['repo'] ?>&input_type=<?php echo $_GET['input_type'] ?>" usemap="_anonymous_0"/>
+        <img id="graph" src="lib/graph.php?repo=<?php echo $_GET['repo'] ?>&input_type=<?php echo $_GET['input_type'] ?>" usemap="_anonymous_0"/>
         <?php echo getMap(escapeshellcmd(urldecode($_GET['repo'])), escapeshellcmd(urldecode($_GET['input_type']))) ?>
     </body>
 </html>
