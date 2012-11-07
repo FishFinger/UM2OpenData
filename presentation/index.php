@@ -14,6 +14,7 @@
 
 <script type="text/javascript">
 	w3c_slidy.mouse_click_enabled = false;
+	w3c_slidy.lang = "fr";
 </script>
 
 <body>
