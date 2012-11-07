@@ -25,9 +25,9 @@
 	<h3>Mise en ligne des infos de l'UM2</h3>
 
 	<ul>
-		<li>Personnel</li>
+		<li>Enseignants</li>
 		<li>UEs</li>
-		<li>Batiment</li>
+		<li>Batiments</li>
 		<li>Emploi du temps</li>
 	</ul>
 </div>
