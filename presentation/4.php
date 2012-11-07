@@ -15,6 +15,13 @@
 </div>
 
 <div class="slide">
+	<h1>Réalisations</h1>
+	
+	<object data="../webapp/web/" type="text/html" width="100%" height="100%">
+	</object>
+</div>
+
+<div class="slide">
 	<h1>The End</h1>
 	
 	<p>Thanks for your attention</p>

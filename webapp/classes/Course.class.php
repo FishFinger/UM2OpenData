@@ -9,7 +9,7 @@ class Course {
     private $comment; // String
     private $managedby; // Person
 
-    public function __construct($id = NULL, $label = NULL, $comment = NULL, Person $managedby = NULL) {
+    public function __construct($id = NULL, $label = NULL, $comment = NULL, Person $managedby = NULL)     {
         $this->setId($id);
         $this->setLabel($label);
         $this->setComment($comment);
@@ -47,9 +47,18 @@ class Course {
     public function setManagedby($manegedby) {
         $this->managedby = $manegedby;
     }
+    
+    public function toHTMLString(){
+       $string = "";
+        $string .= "id: ".$this->getId()."<br />";
+        $string .= "label: ".$this->getLabel()."<br />";
+        $string .= "comment: ".$this->getComment()."<br />";
+        $string .= "Manager: <br />".$this->getManagedby()->toHTMLString(); 
+        return $string;
+    }
 
     public function __toString() {
-        return $this->getId();
+       return $this->getId();
     }
 
 }
