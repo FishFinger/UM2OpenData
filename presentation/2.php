@@ -1,4 +1,15 @@
 <div class="slide">
+	<h1>Plan</h1>
+	
+	<ol>
+		<li>Présentation du projet</li>
+		<li><b><u>Modèle de données</u></b></li>
+		<li>Scraping des données</li>
+		<li>Réalisations</li>
+	</ol>
+</div>
+
+<div class="slide">
 	<h1>Modèle de données</h1>
 	<h3>Modèle relationnel</h3>
 

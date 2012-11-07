@@ -12,8 +12,8 @@
 	<h1>Plan</h1>
 	
 	<ol>
-		<li>Présentation du projet</li>
-		<li>Modèle des données</li>
+		<li><b><u>Présentation du projet</u></b></li>
+		<li>Modèle de données</li>
 		<li>Scraping des données</li>
 		<li>Réalisations</li>
 	</ol>
