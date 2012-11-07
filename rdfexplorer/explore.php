@@ -8,6 +8,7 @@ include 'lib/map.php'
         <title>Test</title>
 	<link rel="stylesheet" href="style-result.css" type="text/css" media="screen">
         <script type="text/javascript" src="jquery.js" language="Javascript"></script>
+        <script type="text/javascript" src="jquery-ui.js" language="Javascript"></script>
         <script type="text/javascript" src="script.js" language="Javascript"></script>
     </head>
 

@@ -1,3 +1,7 @@
+body{
+  overflow: hidden;
+}
 #graph{
   height: 100em;
+  cursor: pointer;
 }
