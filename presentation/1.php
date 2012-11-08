@@ -27,7 +27,7 @@
 	<ul>
 		<li>Enseignants</li>
 		<li>UEs</li>
-		<li>Batiments</li>
+		<li>Bâtiments</li>
 		<li>Emploi du temps</li>
 	</ul>
 </div>

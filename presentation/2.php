@@ -51,7 +51,6 @@ map:Course a d2rq:ClassMap;
 
 	d2rq:classDefinitionLabel "Course";
 	d2rq:classDefinitionComment "Course class";
-	d2rq:dataStorage map:database;
 .
 
 map:Course_label a d2rq:PropertyBridge;
