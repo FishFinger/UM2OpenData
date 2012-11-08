@@ -14,7 +14,7 @@
 	
 	<ul>
 		<li>Emploi du temps (ADE)</li>
-		<li>Batiments (LinkedGeoData)</li>
+		<li>Bâtiments (LinkedGeoData)</li>
 		<li>Enseignants</li>
 		<li>UEs (w3b)</li>
 	</ul>
@@ -132,7 +132,7 @@
 		<dd>martin dupont == dupond martin ?</dd>
 		
 		<dt>coefficient de Jaccard</dt>
-		<dd><img class="tex" src="img/jaccard.png" alt=" J(A,B) = \frac{|A \cap B|}{|A \cup B|}"></dd>
+		<dd><img class="tex" src="img/jaccard.png" alt=" J(A,B) = \frac{|A \cap B|}{|A \cup B|}" style="width: 8em"></dd>
 		
 		<dt>distance de Levenshtein</dt>
 		<dd>
