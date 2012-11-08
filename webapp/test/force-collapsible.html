@@ -24,7 +24,15 @@ line.link {
     <div id="chart"></div>
     <script type="text/javascript">
 
-var width = 960,
+
+d3.toto = {};
+
+
+var circle = d3.toto.selectAll("circle")
+    .data([32, 57, 293], String);
+
+
+/*var width = 960,
     height = 500,
     node,
     link,
@@ -38,24 +46,38 @@ var force = d3.layout.force()
 
 var vis = d3.select("#chart").append("svg")
     .attr("width", width)
-    .attr("height", height);
+    .attr("height", height);*/
 
-d3.json("./flare.json", function(json) {
+/*d3.json("./flare.json", function(json) {
   root = json;
   root.fixed = true;
   root.x = width / 2;
   root.y = height / 2;
   update();
-  fold(root);
-  update();
+  //test(root);
+  //update();
 
  
 
-});
+});*/
 
-function update() {
-  var nodes = flatten(root),
-      links = d3.layout.tree().links(nodes);
+force
+	.nodes(
+		[{index:0, x:0, y:0, px: 0, py: 0, fixed:false, weight:1},
+		{index:1, x:0, y:0, px: 0, py: 0, fixed:false, weight:1},
+		{index:2, x:0, y:0, px: 0, py: 0, fixed:false, weight:1}]
+		)
+	.links(
+		[{source:0, target:1},
+		{source:1, target:2},
+		{source:2, target:3}]
+		)
+	.start();
+
+/*function update() {
+  var nodes = flatten(root);
+  var links = new Array();
+  links[0] = {source:0, target:1};
 
   // Restart the force layout.
   force
@@ -98,7 +120,7 @@ function update() {
 
   // Exit any old nodes.
   node.exit().remove();
-}
+}*/
 
 function tick() {
   link.attr("x1", function(d) { return d.source.x; })
@@ -115,15 +137,29 @@ function color(d) {
   return d._children ? "#3182bd" : d.children ? "#c6dbef" : "#fd8d3c";
 }
 
+function test(d)
+{
+  if(d._children) 
+     unfold(d);
+     
+  for(var i in d.children)
+    fold(d.children[i]);
+}
+
 function fold(d) 
 {
-  if(d.children) {
+  if(d.children) 
+  {
+	
 	d._children = d.children;
 	d.children = null;
+
 	for(var i in d._children)
 		fold(d._children[i]);
+	
   }
 }
+
 
 function unfold(d)
 {
@@ -136,11 +172,12 @@ function unfold(d)
 
 // Toggle children on click.
 function click(d) {
-  if (d.children) {
+	test(d);
+  /*if (d.children) {
     fold(d);
   } else {
     unfold(d);
-  }
+  }*/
   update();
 }
 

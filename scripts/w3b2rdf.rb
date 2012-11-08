@@ -9,38 +9,39 @@ include REXML
 
 DEBUG = true
 
-def proximity(a, b)
-  a = a.downcase
-  b = b.downcase
-  Text::Levenshtein.distance(a,b) / ((a.size() + b.size())/2.0)
-end
+#def proximity(a, b)
+#  a = a.downcase
+#  b = b.downcase
+#  Text::Levenshtein.distance(a,b) / ((a.size() + b.size())/2.0)
+#end
 
-def coefficient(a, b, threshold = 0)
+#def coefficient(a, b, threshold = 0)
    
-  a = a.split(' ')
-  b = b.split(' ')
+#  a = a.split(' ')
+#  b = b.split(' ')
 
-  intersection = Array.new
-  union = Array.new
+#  intersection = Array.new
+#  union = Array.new
 
-  a.each do |e1|
-    union.push(e1)
+#  a.each do |e1|
+#    union.push(e1)
 
-    b.each do |e2|
-      if proximity(e1,e2) <= threshold
-        intersection.push(e1)
-        b.delete(e2)
-        break;
-      end
-    end
-  end
+#    b.each do |e2|
+#      if proximity(e1,e2) <= threshold
+#        intersection.push(e1)
+#        b.delete(e2)
+#        break;
+#      end
+#   end
+#  end
 
-  b.each do |e2|
-    union.push(e2)
-  end
+#  b.each do |e2|
+#    union.push(e2)
+#  end
  
-  return intersection.length.to_f / union.length.to_f
-end
+#  return intersection.length.to_f / union.length.to_f
+#end
+
 
 class Ue
   
@@ -93,13 +94,13 @@ class Ue
 
   def set_responsible(responsible)
     found = false
-    LIRMM_DIR.each do | key, value |
-      if coefficient(key,responsible,0.2) == 1.0
-        @responsible.push(value)
-        found = true
-        break;
-      end
-    end
+#    /*LIRMM_DIR.each do | key, value |
+#      if coefficient(key,responsible,0.2) == 1.0
+#        @responsible.push(value)
+#        found = true
+#        break;
+#      end
+#    end*/
 
     if !found
       @responsible.push(responsible)

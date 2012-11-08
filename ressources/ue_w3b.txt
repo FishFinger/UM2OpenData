@@ -118,82 +118,76 @@ FMIN104
 Réseaux et Communications
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bouziane-05.html
+	Hinde BOUZIANE
 FMIN105
 9f259841fd549b1171b033afde215a4ce1c94a3feecae1ce2ede6664bc464bbde09e56ffcd24afaf
 Complexité/Calculabilité/Algorithmique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 FMIN107
 ae70cf85102b13d113625e899c49cc348fd49a298dd1af1c34f7a16a36287a7aa59a38a468ad83c8
 Ingénierie logicielle
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/dony-05.html
-	http://www.lirmm.fr/xml/fr/nebut-05.html
+	Christophe DONY
+	Clementine NEBUT
 FMIN108
 8e846bab4ade92d8d20c6659f0dc6d312546385ab63357a44e8c712255e0a50443e2368939caedb4
 Anglais M1 informatique
 5
 responsable :
 	Pauline MAC NISH
-FMIN109
-4e08e72a2de9ceeb945841a8f280de507766e8fc4f755d2b57d0e196dfb058510cc2c8cd2dab6502
-Social Informatics
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/cerri-05.html
 FMIN110
 a76ebf64f3a017168407a655927a7bcc0a7a5832825596c3ce6e1482562007b5f656a1ee7965455d
 Programmation
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/huchard-05.html
+	Marianne HUCHARD
 FMIN111
 b3cc2dad1174174816b4a0139dd77d83581e62652754593cefde2fc7be88b94a2b798e63914f3e54
 Systèmes d'information et Bases de données
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Isabelle MOUGENOT
+	Mathieu ROCHE
 FMIN112
 eeeae0819db53f73e300cf5e09821ce9b6c7d0987751a6a8a2791f21545ff92bb1b2a8ca554aca57
 Introduction Système et Réseaux
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	Pierre POMPIDOR
 FMIN118
 f7d53387696ff0544b4fe764bb0b0048815cc5de1dcc2058eb6b3a5335a11134897e530fa1d77328
 Prolégomènes Algorithmique et Systèmes
 0
 responsable :
-	http://www.lirmm.fr/xml/fr/arigon-05.html
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	Anne-muriel CHIFOLLEAU
+	Pierre POMPIDOR
 FMIN207
 dab1da6885820e7022c247dac4fe4af5ce6e82087f10e99fb338b249e2b203d5e6f142dba035dba0
 Programmation orientée agents
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/ferber-05.html
+	Jacques FERBER
 FMIN223
 7ba5e7efd72f799b221521cec13f15db4d90c40f6c323aca02c8a5979effc0d48d3e0508d33b969e
 Technologies du Web
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/scharffe-05.html
+	François SCHARFFE
 FMIN225
 965f1d506bfc80263414afd7781aec23b5687e8321e825896293414243c64b95255a7975a2f54189
 Sémiologie graphique, Cartographie, Théories sur les données géographiques
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 FMIN302
 e3ae1a5a8891adea82d91ddb628c844583827e0d2b21ef2a5d9002431d40e23253838fcbada74c4b
 Théorie de l'Information
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/lafitte-05.html
+	Gregory LAFITTE
 FMMA103
 fc05335c3349b8c860c047db5eea80fd8ca57441d09abdb8c3defac75ef9ebf2fb5e15e24cbf3969
 Analyse Fonctionnelle
@@ -206,7 +200,7 @@ Transformées de Fourier et Radon, Imagerie
 5
 responsable :
 	Alain BRUGUIERES
-	http://www.lirmm.fr/xml/fr/crouzet-05.html
+	Jean-Francois CROUZET
 	Jerome DRONIOU
 FMMA110
 902ea4fdf4043c2966f8917d6026179660a062e35bfc5557be504d84d1a75ac0188ed0ab3f7fc90f
@@ -1052,12 +1046,6 @@ Chimie des produits naturels
 2.5
 responsable :
 	Jean Yves WINUM
-GMCH10F
-8e486705844a03b4c7d558f358b790093f3104c2b19b96b22bd45a44789465b5fb8fa72432be2eb1
-Chimie des matières Cosmétiques
-2.5
-responsable :
-	Florence ROUESSAC
 GMCH110
 c165d3ca6ff409cc00cea818b815eb0fbab925457a4a1423303d4f046db49202238a604f1f7e65ba
 Structural and microstructral characterization of solids (UM2)
@@ -1255,12 +1243,6 @@ Eléments de base en radioactivité
 2.5
 responsable :
 	Nicolas DACHEUX
-GMCH130
-dcc60449903f1aef31ab41f9b2917036379a82c9f716dbb6a23410872e3c4c49c76ca1ecf1172e8e
-Matières Premières Cosmétiques : Classification et contexte législatif
-2.5
-responsable :
-	Veronique MONTERO
 GMCH131
 d2966b03e9a0942a632b94e3ff58b6525ad2b7801bdff6637ad6a01d165e6424880eb9d051ff3186
 Inorganic materials (UM2)
@@ -1351,13 +1333,13 @@ GMEE101
 Génie Informatique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/strauss-05.html
+	Olivier STRAUSS
 GMEE102
 23f16189e99626d1a8bad462c7021600397d97446157476c025d0e0bf5694e1253249dd81d2457bd
 Initiation à la conception de circuits intégrés numériques et analogiques
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bertrand-05.html
+	Yves BERTRAND
 GMEE103
 a86ed09b569d5b11fae82c22e86c35fe3f28e6ff6b374922345aa409b60c223731565ff93d15ae4e
 Chaine d'acquisition / Traitement du signal niv1
@@ -1377,7 +1359,7 @@ GMEE105
 Logique Séquentielle / VHDL
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE106
 23fec187b97cc31f4ba32f994bd6ebac38942cc2ebb07cb9ce0c05977695fe84cb7980fba676d75a
 Electronique analogique
@@ -1427,19 +1409,19 @@ GMEE113
 Automatique 1 : Multivariable, Temps réel
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/brunojouvencel-05.html
+	Bruno JOUVENCEL
 GMEE114
 b6a406d0cc6591e8ec85cd1f1047466be12b5e484ce5c86f00a598d9211991b4b3db8391331b7d3a
 Automatique 2 : SED
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/brunojouvencel-05.html
+	Bruno JOUVENCEL
 GMEE115
 f5e4793a2607285e4dbf22082566f46cbd9fdb93fed3c04616eca3b9e552d67da450a1a7b1f0f187
 Automatique 3 : réseaux informatiques et industriels
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bosio-05.html
+	Alberto BOSIO
 GMEE116
 b991ec0a66af9ac49ec0b3da017e0fcea0cea77d9e929ebcee338c8fa41a47a68f778d818b029505
 Phénomènes ondulatoires
@@ -1511,7 +1493,6 @@ GMHD106
 Milieux littoraux
 2.5
 responsable :
-	Severin PISTRE
 	Tony REY
 GMHD107
 36c9bbe3b52b0c79bc741d800585f2e7f90feaa46e7db1d822a5ebe99cc16893ffe1c4cb376768b2
@@ -1583,7 +1564,7 @@ GMHD114
 Champs d'application des TIC en santé
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 	Emmanuel LE CLEZIO
 	Maurice HAYOT
 GMHD115
@@ -1602,78 +1583,78 @@ GMIN101
 Intelligence artificielle
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mugnier-05.html
-	http://www.lirmm.fr/xml/fr/leclere-05.html
+	Marie-Laure MUGNIER
+	Michel LECLERE
 GMIN103
 f81a10aa49caa3399507509e241eae888bcbb6d503a1570d038f03f2dcd511110cdb4ae5cac0fd88
 Bases de données avancées
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Annie CHATEAU
+	Therese LIBOUREL
 GMIN104
 6defdb59e1fc7fc0589c74db901957cac282d68c34c6a0a9e5b0f8e81bb2d79f53686b8f7b47083a
 Traitement du signal
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/strauss-05.html
+	Olivier STRAUSS
 GMIN106
 d63f37ce73c04c76494e867faaf1141f56bbaa5a6d6af1947d2554e8e1d4c4e4ab3c6d70d4dd075a
 Interaction Homme-Machine
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mountaz-05.html
+	Mountaz HASCOET
 GMIN107
 a74280bf0193051fabb6aa7250b0967008f2c3926283fefd5c755130f871069edce7e16383a12b16
 Exploitation, fouille de données, gestion de bases de données
 2.5
 responsable :
-	http://www.lirmm.fr/xml/fr/laurent-05.html
+	Anne LAURENT
 GMIN108
 67143c3dd2126d6bda7bb2d5a093e6ee5dc52cdb604ba4a22bba9fa1808417dd37153ffc55e868b9
 Compilation Interprétation
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/lafourca-05.html
-	http://www.lirmm.fr/xml/fr/ducour-05.html
+	Mathieu LAFOURCADE
+	Roland DUCOURNAU
 GMIN109
 b27f8b48a337432adc25e1b0f394f7422becebfa69c3092321c5e671a272c000e2785fcc54393af6
 Algorithme du texte
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
-	http://www.lirmm.fr/xml/fr/berard-05.html
+	Annie CHATEAU
+	Severine BERARD
 GMIN10B
 dc5d625f1c360d9fb09b1036fac92bceb08f430cbed38dc6d9cefbe141e45b0b8d6672e3ed192fff
 De l'aménagement à la gestion des territoires : problématiques et méthodes
 3
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN10C
 75455c1ad2eca02544c3701ffe32ac531f660a2fd90896faa4a4095ec404f6d13c2d7565deb9acda
 Stage M1 IPS analyse ou projet tutoré
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
+	Annie CHATEAU
 GMIN10D
 e2439c8a7d8a8c690a2f9b19418592c0d995384f003d7372c52e57fb709e981db9f7bb90f2fc402a
 Analyse de données - Enquêtes/Statistiques/SIG
 4
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN10E
 ed2e026bd257cb29fdf192bc214119f6fa7604d3abaf38f5fc895c809862e116974cf284301afce7
 Analyse et conduite de projets
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/seriai-05.html
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
+	Abdelhak SERIAI
+	Eric BOURREAU
 GMIN115
 abdc4869e1af5b2d057a7121136ddfc2bf684bdb6f3077489f350946cb425e1d4e8b462ff56936d9
 Projet M1 BCD
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 GMLV101
 ebb7d3e34acaf0f7194ad59a5e913007887911779ccefa0ddc3dc2f3f5682c2f9fc0761586c4cf77
 Français langue étrangère
@@ -1716,7 +1697,6 @@ Anglais thématique 1
 2.5
 responsable :
 	Pauline MAC NISH
-	Severin PISTRE
 GMMA101
 5e482f4e32c947a6ace4ee3072d1d05481acbe6796fa5695b33ccc139007bc91ee95cf0fa4129159
 math-pratiques
@@ -1905,7 +1885,6 @@ Eau et Santé publique
 responsable :
 	Elena GOMEZ
 	Hélène FENET
-	Severin PISTRE
 GMST10A
 e1514547bea7be2c0a5ec5c1cf54b9ad87c913ef4289667f9fb121179e7fc72077dc9b3f8ac4665c
 Ressources minérales
@@ -1919,20 +1898,17 @@ Projet bibliographique (en accord avec la spécialité)
 responsable :
 	Aurélie ESCANDE
 	Marina HERY
-	Severin PISTRE
 GMST10D
 d425755630ec354da02bb88fed15cec7e6d3a5767f01c9428722a3c68244a5fc983222a55b91fdee
 Filières de traitement des eaux et des sous-produits de l'épuration
 2.5
 responsable :
-	Severin PISTRE
 	Thierry RUIZ
 GMST10E
 072b1071a9eefdbedc3cdb931345fad7cb1e736ca5f78076bb5570a0c5edb250266a7a1dd8f7669d
 Stage M1 de terrain géologie - hydrogéologie
 2.5
 responsable :
-	Severin PISTRE
 	Veronique LEONARDI
 GMST10F
 80d94f4e12c1024323ff14497b9e53a61083619da2a21e41f1b8fe2b6b7d6dd1663943b2742c528d
@@ -1948,7 +1924,6 @@ Hydrodynamique des sols
 2.5
 responsable :
 	Marc VOLTZ
-	Severin PISTRE
 GMST112
 04367abc01e563bbc770bc4c938d1f873af682016896568a6db6e4c63666fea91d0b6d656e6b3e9e
 Contaminants du milieu aquatique et développement durable
@@ -1956,14 +1931,12 @@ Contaminants du milieu aquatique et développement durable
 responsable :
 	Elena GOMEZ
 	Hélène FENET
-	Severin PISTRE
 GMST113
 a64cc1bb325eb4e4a89519b72a3cb16f3810056db2cbc20cc809023a4ebdb967922062e27c6de392
 Hydraulique à surface libre
 2.5
 responsable :
 	Gilles BELAUD
-	Severin PISTRE
 	Valerie BORRELL
 GMST114
 200888cc875ed78cf85987187cb7fdb1d8f5f0c8982df6fc94bd7c49cff1897fed42eea80119cb22
@@ -1971,7 +1944,6 @@ Eaux et agriculture : Enjeux et questions scientifiques
 2.5
 responsable :
 	Marc VOLTZ
-	Severin PISTRE
 	Thierry RIEU
 GMST115
 e460a2c3cc7e17739deed5fdbbfd249af33b372fa3e1e07ae3015edb47185d2101f63ce42d2c2d21
@@ -1992,7 +1964,6 @@ GMST117
 Performances des traitements des eaux et contaminants
 2.5
 responsable :
-	Severin PISTRE
 	Thierry RUIZ
 GMST118
 f7dd734dd7a8293e54a3f76b0be8a341da1ec53bfd5efe089bae725e2a253cac304fba4110c9f12a
@@ -2019,7 +1990,6 @@ dea0817116ff33c177c77c852b26e6a6a92db85a4c16039da768999d3418047ffeffe8d26c3172e6
 Fonctionnement des hydrosystèmes
 2.5
 responsable :
-	Severin PISTRE
 	Veronique LEONARDI
 GMST11E
 67c277b434f4d30539061a2d630a8923073ddec6692ee18f1af56755bfe9abc4f7a06d0505add2db
@@ -2044,6 +2014,7 @@ GMST122
 Approche transversale des risques naturels
 2.5
 responsable :
+	Valerie BORRELL
 GMST123
 c66338f7546a0eaa79d5f94188b5695a9593100504491d5811bedca6bbc961e451f8dba2d1233c5b
 Systèmes tectoniques
@@ -2099,6 +2070,7 @@ FMBD200
 Modelling
 5
 responsable :
+	Fabien LE PRIEUR
 FMBD201
 623f844defb9face6c9f7f74775499ee358c500f14362605ca719fd2ebf7add6532f7f6beb9a6afd
 Biodiversity
@@ -2109,21 +2081,25 @@ FMBD202
 Landscape Ecology and GIS
 5
 responsable :
+	Fabien LE PRIEUR
 FMBD203
 6989cc6f8727d1e30fb180f29fd4b74af7e34a5a5b0c0820c22ef460a82bc90c49414220b4a06494
 Conservation biology
 5
 responsable :
+	Fabien LE PRIEUR
 FMBD204
 b8d1034b897024ab8d7f99bbbd281dd03b05b35df04dee7052b26c3774db976bd257455605017f07
 Biospheric processes in the changing mediterranean ecosystem
 5
 responsable :
+	Fabien LE PRIEUR
 FMBD205
 d3720393c6446ffaa1985087e6a8f86e2e17fd54e9621f8ec9af5d3c7604115380215041cf0a89e4
 Theoretical Ecology
 5
 responsable :
+	Fabien LE PRIEUR
 FMBS204
 0668438e71ad27c0967108712ad1c5aa26802a29cf166e16a3c56da9cbbe80df97d7fa9ad866ffac
 Chimie Médicinale
@@ -2243,7 +2219,7 @@ FMEE234
 Capteurs et traitements d'images
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/strauss-05.html
+	Olivier STRAUSS
 FMEE242
 c7de47301bb2be220e14b046262413759c65a0d0c5ea0b8f767c4d32820ff92ad805b18a6dfc05b9
 Physiologie cellulaire pour électronicien
@@ -2268,7 +2244,7 @@ FMIN109
 Social Informatics
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/cerri-05.html
+	Stefano Alessandro CERRI
 FMIN116
 c8b55837eed88198b01a67168daeed59bfe61e5e6f20ada178cd61a6a45577ecd85101725a4b36e3
 Concepts et objets clés de l'électronique pour la biologie
@@ -2287,114 +2263,82 @@ FMIN124
 Analyse spatiale, analyse géographique, spatialité des stés
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 FMIN201
 91679438bc43865d4a9dd46e1ac6678eb608b6ca9f7078674b16c813ade201e3eeb3db894b1ecd12
 Galaxie XML
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	Pierre POMPIDOR
 FMIN202
 a9716f8b1a388aad505d204fc12a1041e032dc32a8cdb3fd7dc293553ce06b8b6adb650da18115f3
 TALN(Traitement Automatique du Langage Naturel), niveau 1
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/prince-05.html
-FMIN203
-903f46c8a428f56aa2c4adf0f885a2883c947190514aa242fa7eb0db5b0bfa22740bbf132737788e
-Conception et Développement des IHM
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
-FMIN204
-7db5444c85b2b5e9579c106c5dc5c86858510751fcc834a91a61e62b98648cb1fe667ea4cb852aee
-Méta-programmation et réflexivité
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/ducour-05.html
-FMIN205
-d39c42cd9e6c0cc44f6790278918cfc06b025bc60a993286843b3bf1d179f450f35264081d4f94d5
-Des Spécifications au code avec UML et B
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/nebut-05.html
-	http://www.lirmm.fr/xml/fr/leclere-05.html
+	Violaine PRINCE
 FMIN206
 87a3569975d1c316db9c76557e0da6510242f7091d3806f30fcd1a252b242f4f187cd41e8a40be6e
 Base de données spatiales
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
-FMIN207
-dab1da6885820e7022c247dac4fe4af5ce6e82087f10e99fb338b249e2b203d5e6f142dba035dba0
-Programmation orientée agents
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/ferber-05.html
+	Therese LIBOUREL
 FMIN210
 12b5f438f7138728cc748d0ab0ffcf357b9c9be2c1a61abe3d122d9aed9db253dbe2e6d6f9795f17
 Services et Qualité de Réseaux
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/baert-05.html
+	Anne-Elisabeth BAERT
 FMIN212
 c5d71db937cfc67bf3a1bf181806969c75da034bc25991bc488275c48d0c92d3467e3b28b1d24d6e
 Algorithmes distribués
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
-FMIN214
-3e172f8f3018ef149e881b779adbef98d402167c0e8d3524e89b904aec6af7c4eb490daa428aedca
-Modèles aléatoires
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/ajm-05.html
-	http://www.lirmm.fr/xml/fr/baert-05.html
+	Rodolphe  GIROUDEAU
 FMIN215
 046d838eecc9b309322121be8f9e46fcef4d2f94a3a4945bed8316ef2b6ba0a72cc07392b09fd826
 Algorithmique Géométrique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bessy-05.html
+	Stephane BESSY
 FMIN220
 d4c9daa76e926a24954eb4fcfc6390952d695075e63f5fc178ea07e23f150e964fd53bfb781be1b6
 STRUCTURES DE DONNEES
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/huchard-05.html
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Marianne HUCHARD
+	Mathieu ROCHE
 FMIN223
 7ba5e7efd72f799b221521cec13f15db4d90c40f6c323aca02c8a5979effc0d48d3e0508d33b969e
 Technologies du Web
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/scharffe-05.html
+	François SCHARFFE
 FMIN309
 39fcada9b0f64360d5d384ea39cd0fcb7f22533e634989bb0ed3a4a10f05415bf0ac23dd7f5e49ca
 Ingénierie des connaissances
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mugnier-05.html
-	http://www.lirmm.fr/xml/fr/leclere-05.html
+	Marie-Laure MUGNIER
+	Michel LECLERE
 FMIN311
 c7d863fcde8a2ec58612fbeae8a377ebb168e8d94f6b526a4e127083ec86159ddfe1cfceff0e7d16
 Extraction de Connaissances à partir de Données (ECD)
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/laurent-05.html
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Anne LAURENT
+	Mathieu ROCHE
 FMIN314
 6f2b9512fd0d01e6e475314795d868a331ad5cfb3de1d76207e755e866f838a152deb74f2e99f0d0
 Langages à objets à typage statique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/ducour-05.html
+	Roland DUCOURNAU
 FMIN365
 c928f12f3f4d5d604ec604c954d42b4ac59aeea0ba139da5814d21a663828628645305228edf07ee
 Analyse de données
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
+	Annie CHATEAU
 FMIN371
 86d314c284f2fbc4b03d05d24cf28b3a6acef6250d56591160a65757eb5303c36670f658e6211810
 Grille et optimisation (FMIN371)
@@ -2833,14 +2777,14 @@ cc9f85d237bc1a4e2d3d998cb82b3b419bbf624566cef286f40db1ea47ba62d2ed7607525e19276a
 programmation par objets 2
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/huchard-05.html
+	Marianne HUCHARD
 GLIN605
 c348c4b394a62ed488013e30ee9d90eba8bfbfc769130abd206a1a2534a6c5a81b15226597f93c3b
 Systèmes d'information et bases de données 2
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mroche-05.html
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Mathieu ROCHE
+	Therese LIBOUREL
 GMBE109
 1cde6eea804186ee66c673386afb68de1aef3e4a028e00ce41703972321854e1229c6d705074b605
 UE de la mention EcoBiodiv
@@ -3074,6 +3018,9 @@ GMBE239
 Révisions de l'écrit et stage Alpes
 10
 responsable :
+	Cecile MEUNIER
+	Claude ANCELY
+	Gilles MERZERAUD
 GMBP202
 a36ed8a77d5d09d88d9d6ff849a0668f0082d6fc012eabd6624daa248ee5a450e5d367d7fbb86494
 Approches expérimentales à la biologie fonctionnelle des plantes
@@ -3363,18 +3310,6 @@ Stage M1 AP industriel (4-6 mois)
 10
 responsable :
 	Chantal MENUT
-GMCH210
-5aef57f3b2238206b8e98ed8524e3879d27376b792db207a94e920db256d8cb1c7104f748b8510ae
-Mise en œuvre des matières premières cosmétiques
-2.5
-responsable :
-	Veronique MONTERO
-GMCH211
-bffb67d437920f5c11e5bb1165df2d25894a1e475b4170cf05f47153ca8600da99060ae9f9b48f40
-Stage M1 COSM  industriel M1 (4-6 mois)
-10
-responsable :
-	Veronique MONTERO
 GMCH212
 38b99c295c7a742990ec931928f66b3984515521ed89e1bdfda2ed61809c3b0dfff615313b802ccd
 Matériaux moléculaires à propriétés remarquables
@@ -3437,24 +3372,6 @@ Physiologie et Pratiques de l’analyse sensorielle
 2.5
 responsable :
 	Sylvie GAILLET-FOULON
-GMCH21C
-b09cc3d337b4005cc829ee3d0226ba415ce024d0d3498ae34f70253675ac8bb983fc0c73a4037b79
-Formulation cosmétique
-2.5
-responsable :
-	Veronique MONTERO
-GMCH21D
-bbaf01ae519daa74136ba8cdac0ee853cc3430e6b2d4890a773a0096999b48350e56b375c1dd3c64
-Bases de la formulation cosmétique
-2.5
-responsable :
-	Veronique MONTERO
-GMCH21E
-f62a030016cbce907c86301c6531a860cffafc26768622504342876038fb1a5838c4ab28b1de81e0
-Techniques physicochimiques pour la cosmétique
-2.5
-responsable :
-	Serge LAGERGE
 GMCH21F
 00efe4eb40ca02c7616a85b31e96e2930fbb0fd849003d4e757ea959d8ad96ecc011199cb52c3f95
 De la modélisation à l’expérience
@@ -3622,7 +3539,7 @@ GMEE206
 Capteur et image
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/strauss-05.html
+	Olivier STRAUSS
 GMEE207
 3cf15b325f2d559e99b980fa5f9f7adf54f1989549f42c76ce88667e08b9a9550d1ee4b90fb7cf73
 Capteur/ Robotique
@@ -3648,25 +3565,25 @@ GMEE211
 Automatique 4 : Robotique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/brunojouvencel-05.html
+	Bruno JOUVENCEL
 GMEE212
 03eea9312d96b0bcbc166ff0e8e34433da26b9cd895187040a7054b08d6573d619b39459d785210a
 Anglais et techniques de communication
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE213
 97b82ed143f0cc175dbeb8c8809f68dddc00c5410e2dbce094c880c8c79bb608dc55630f5a7d3bb1
 Projet 100H M1 EEA
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE214
 75f529e38b5381a0708f0487f4cbe6ff60a946e2c78020359ce53f9028c0e405536294591fb595d1
 Stage M1 EEA
 10
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE217B
 2e6595652ec307cc6543c74645d20818a566bd14efba15006350325a773fab61aef153c9aa95390c
 Etudes expérimentales des systèmes industriels
@@ -3689,14 +3606,14 @@ Capteurs et image
 5
 responsable :
 	Emmanuel LE CLEZIO
-	http://www.lirmm.fr/xml/fr/strauss-05.html
+	Olivier STRAUSS
 GMEE226
 553ae0786bbc43c9d714ecdc3d29950d69951da462dd0102c56774c5b525cd1764959b85d4bc8a9d
 Robotique & imagerie
 5
 responsable :
 	Emmanuel LE CLEZIO
-	http://www.lirmm.fr/xml/fr/poignet-05.html
+	Philippe POIGNET
 GMEE229
 f2f8863d027c6dab3f1bfafb590cab88e83d3a75f2e0923db373586be579bc7960d2d7d522d5f828
 Aspects législatifs,politiques,socio-économiques
@@ -3737,7 +3654,7 @@ GMHD114
 Champs d'application des TIC en santé
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 	Emmanuel LE CLEZIO
 	Maurice HAYOT
 GMHD202
@@ -3777,147 +3694,147 @@ GMIN201
 Traitement d'images de télédétection
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN202
 64d331e9dba83a558883bc44d8de538b5204b0e56f6214461d8573477a2ec88adefcc2794cfa1b56
 Calculabilité sous toutes ses coutures
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
+	Eric BOURREAU
 GMIN203
 665ee7f5566839966846d8ce251133daf7b1fb50ff9624726183b23dd285e7f12d53697882986d0f
 Analyse et traitement d'images
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/strauss-05.html
-	http://www.lirmm.fr/xml/fr/wpuech-05.html
+	Olivier STRAUSS
+	William PUECH
 GMIN204
 14952dae5b1d6f8c7120d98b06e0846c4aaae90a1e51fcce4acd532426cf1bf4e69a6b11b893969d
 Architectures N-tiers
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/seriai-05.html
-	http://www.lirmm.fr/xml/fr/nebut-05.html
+	Abdelhak SERIAI
+	Clementine NEBUT
 GMIN205
 1af2cd7a5b3121e3063d71036783829e569125f5391c3ac05a2e78795099094cd9ccc2e16118bd53
 E-applications
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/scharffe-05.html
+	François SCHARFFE
 GMIN206
 7f7ef97093b27297d47b1dbd6ed11b13f3d1620afff9c82ad041731081a97fce2b56bf8b2071f29a
 Info. Biologique & Outils bioinformatiques
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
+	Isabelle MOUGENOT
 GMIN207
 3820a80fe9c56fb950be6a8083d6ba195e525ae1c5cac3763e1803fe3cc3eef135d9cca885251e6e
 Introduction Algorithmique pour la bioinformatique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 GMIN208
 0da3576edbb9c1225314a4ff3ef3083b92dcab600f107ac97af9129a66ea78524c76237a104286c0
 TER S2 AIGLE
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mountaz-05.html
+	Mountaz HASCOET
 GMIN20A
 b63f1bad4185e36ae60947dfde7f7af7694bf61cf48c7681161b281118fce0600f7d1c3f6280fbe0
 Algorithmique d'exploration et de mouvement
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
+	Eric BOURREAU
 GMIN20B
 869e369d7316a8be3ace116fc738b79377ffb9188c76df1cb6c7c4d31c63f47df2e24aad5c9adba6
 TER S2 DECOL
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/leclere-05.html
-	http://www.lirmm.fr/xml/fr/prince-05.html
+	Michel LECLERE
+	Violaine PRINCE
 GMIN20C
 795ac8c96c6b0da8f08c2c60113ab3efac81f73ec7809961baebe6c67f2dd4085b1362907e209542
 TER S2 IMAGINA
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mountaz-05.html
+	Mountaz HASCOET
 GMIN20D
 9adfb3cd92b5a4a016d75cb18193368ee397bc81e45db995dc7a59271768ff8f2f8d28350d75a7ea
 TER S2 MOCA
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mountaz-05.html
+	Mountaz HASCOET
 GMIN20E
 a13c9975be08bbfeb54954e0b03ba04b0b37ab1683968804ff90b335256a3616c2029afebbd2dbed
 Projet tutoré - stage en laboratoire ou en entreprise
 15
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Annie CHATEAU
+	Mathieu ROCHE
 GMIN20F
 360a421bc5c9ecb99acebe6797e1c72d0667939b86143e1b3e1c4189545e52a4f6482a5805913403
 Imagerie médicale 1
 5
 responsable :
 	Emmanuel LE CLEZIO
-	http://www.lirmm.fr/xml/fr/wpuech-05.html
+	William PUECH
 GMIN210
 db21ef76487bc13c2df97686d35d7afde1f370c24e4871e3a763ddb2596544411915bc9bbdb24a4b
 Gestion de données distribuées
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Isabelle MOUGENOT
+	Therese LIBOUREL
 GMIN211
 1b2c52d4ca2582f2616fafd51e12b5bc844ccce2695d66aaefbbb64a0a9920f08d6a766840c05063
 Spécifications formelles
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/leclere-05.html
+	Michel LECLERE
 GMIN212
 779f4af32f4dc5aee3a0d0c2657581627484995e01b0513eb3a082d45666bc9a450b851cea8b087d
 Modélisation et programmation 3D
 5
 responsable :
 	Gilles GESQUIERE
-	http://www.lirmm.fr/xml/fr/bessy-05.html
+	Stephane BESSY
 GMIN213
 2dbdc35f64d507b4f8e3d6487f09533dd08b71cd771db6430586ed1ebe2317d002137cce5a6e7520
 Méthodes approchées
 5
 responsable :
 	Jean Claude KONIG
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN214
 5d2ad44bd69186e0edbe53f7e959c71707143d931a0f2f0abfe408035eb646ba3e61fd35b9678223
 Mini projet tutoré
 15
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN215
 3f0cc59e713eccac2d5bb018ab92f164405be47ef0a5222a83c474f51b676f0cde284c4734bdc223
 Analyse et traitement d'images
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/wpuech-05.html
+	William PUECH
 GMIN216
 8285ab8f76ada3a43ea181b336c64c6f719f27d5bc24a69e4aa4f56bc90b3f53687bdc30c0dab3b9
 Web mapping
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN217
 019eca5cc096720a4c5f0b28766a4f0b672004c769c5ddb3339b7338bcbc9cea516d2f7959100201
 IHM
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mountaz-05.html
+	Mountaz HASCOET
 GMIN218
 1bb14e1acce74c0a1af244535fac3b765973275cfd460fb44d8b055eaa9e4a17e363d7abe2c9524e
 UE de la mention informatique ou autre mention
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
+	Annie CHATEAU
 GMIN21B
 792935f4f42fd0ab5b8bff5b723f108684f63cceffb03cc6324129e71610feb6e2dd7e96ba99618b
 Traitement d’images de télédectection
@@ -3925,20 +3842,20 @@ Traitement d’images de télédectection
 responsable :
 	Catherine MOULIA
 	Michel PETIT
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN21C
 95fda0469d8421fd81e4fbf0b390cba4e2c4e776abb12a349efb532c70058fbd591f877ea26fd901
 Conduite de projets
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/nebut-05.html
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
+	Clementine NEBUT
+	Eric BOURREAU
 GMIN220
 3aed4fafa377a48e72eac397ce17763c3ea93ec4b5c7c7b8baa45faa4cd12783e372340fac90f3d8
 Alignement et phylogénie
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/arigon-05.html
+	Anne-muriel CHIFOLLEAU
 	Emmanuel DOUZERY
 GMIN221
 0b3b2078fc70b2104a97198dbbd8bff181475ba88c0f95f74a1681629a6d093151b5161bef33a24f
@@ -3951,13 +3868,13 @@ cfaa79d9bed6235e8d214ce8ff53fcbcb94005007dfaa598d6f3ba5dcdbf825ef571d71d6b69de4b
 Stage M1 BCD
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 GMLV202
 185f4401f9eb4580f265508ab8596d1943b9fa9c5359c077805c75ece1fd17ae4e59b3de071c5922
 Anglais
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
+	Annie CHATEAU
 GMLV203
 bf2c076b423e691867d75786c8e88ea53f5b73ecf05f294695baffd1d83b3792e06f8c9c409ca377
 Anglais et 2ème langue
@@ -3977,7 +3894,6 @@ Anglais thématique 2
 2.5
 responsable :
 	Pauline MAC NISH
-	Severin PISTRE
 GMMA103
 1a23c76547b78fe95c0d44a3842758eb09bf387c488e38c1677a9054cae3a497579405587109c7a5
 Analyse des données multi-dimentionnelle : mise en oeuvre avec R et SAS
@@ -4057,7 +3973,7 @@ TER BDS
 responsable :
 	Catherine MOULIA
 	Michel PETIT
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMMD206
 7aac253a2e4bc988cb103cbdd17b102524eea2911c49367b75aa08b80d9a629da660008184e0ba64
 TER TE
@@ -4192,7 +4108,6 @@ Climat-Ressource et écoulements
 2.5
 responsable :
 	Roger MOUSSA
-	Severin PISTRE
 	Valerie BORRELL
 GMST204
 42a3aacccf93b4f605285db65d25a1e8ea37b5ef7aea673b9af24fefd4db66f138cd1a87cd449b2b
@@ -4231,22 +4146,23 @@ GMST20F
 Programmation orientée agents pour l'écologie et l'environnement
 7.5
 responsable :
-	http://www.lirmm.fr/xml/fr/ferber-05.html
-	http://www.lirmm.fr/xml/fr/libourel-05.html
-	http://www.lirmm.fr/xml/fr/stratula-05.html
+	Jacques FERBER
+	Therese LIBOUREL
+	Tiberiu STRATULAT
 GMST211
 1aaaf98e730f92966b81b0b41d7a3008e5a6bc8e7cdd8d21c20d02758a655b0b9a6f71662b7776ef
 Perturbations anthropiques des écosystèmes aquatiques
 5
 responsable :
 	Aurélie ESCANDE
-	Severin PISTRE
 GMST213
 95e9037e74ffd44afceac0f6d2e5cc7085394bbcc17d4bed7a67414a9a6ce9ad0ca94096cb65e218
 Stage M1 en entreprise, organisme ou laboratoire
 7.5
 responsable :
 	Severin PISTRE
+	Valerie BORRELL
+	Veronique LEONARDI
 GMST214
 cb2d83289d0d93cc0e014135027acc37553bdadcb19dea6e7e289ff67371fb942dfef424837723ae
 statistiques en Hydrologie (approfondissements)
@@ -4261,14 +4177,12 @@ Qualité des eaux et microbiologie
 responsable :
 	Christelle BATIOT-GUILHE 
 	Marina HERY
-	Severin PISTRE
 GMST218
 506ff81219b1c51f67d34d36e3e54da772214ae6104887016414338c18d0aac272fca74cf263b726
 Hydrodynamique souterraine
 2.5
 responsable :
 	Herve JOURDE
-	Severin PISTRE
 GMST21A
 17806482621f561892c83674860771eaaecffae9d3cd11c90f698edc62ff7704761e4d49853b5fd6
 Histoire de l'eau
@@ -4533,68 +4447,6 @@ Mécanismes immunitaires de défense et d'échappement
 5
 responsable :
 	Catherine BRETON
-FMCH301
-acb7dc7ebc44c1faccc2e47f5dad38fa16b98aadae2fc356b53f7363e97783036ba5a1cf826a8dac
-Traitement statistique des données et des résultats
-5
-responsable :
-	Chantal MENUT
-FMCH302
-63919696e83f3a5154c0e24eafd417200592fbdef25691773fdf60ff36314fbc1448616c54610b3d
-Préparation à la vie en entreprise
-5
-responsable :
-	Chantal MENUT
-FMCH303
-859c0589ac6af5eb9eba99f03bebc9fdcbef88a585951a67211cccb5d2737046bd021fce393c78c7
-Méthodologie
-5
-responsable :
-	Chantal MENUT
-	Isabelle TOURNIER
-FMCH304
-419f735511da2ec58182031020e53f3f05366b58f624f356823f69a3e8dd983a7eb0b18a65fb6cdb
-Technologie Industrielle
-5
-responsable :
-	Alain MORERE
-	Chantal MENUT
-FMCH305
-3cd311266032af6bf4a20c5551f478c80d4713985b05a09385420a31fd9ae250d0103a13094bbe6e
-Biotechnologie des Arômes - Botanique
-5
-responsable :
-	Chantal MENUT
-FMCH306
-94d2100cb30635ae5eea71de77dbb2757e6b8c996f554ea86a82330a9d30fc2d80edfa693c45fb75
-Evaluation sensorielle-Législation
-5
-responsable :
-	Chantal MENUT
-FMCH307
-8db43396050c16e5eb63c39ea8b05c3eff0ca22daf88c6806a8a09d4e6ae97b2ab05a862e9a3e1ec
-Principes actifs et additifs cosmétiques
-5
-responsable :
-	Veronique MONTERO
-FMCH308
-debb2adcc7e97cfa6d8932643423a74d7947bece0795a3d926340868caf1fd646c804a0c7919ebec
-Analyses et évaluations
-5
-responsable :
-	Veronique MONTERO
-FMCH309
-4ed37f86b6b390643ad6a8cb38b19e0a645be0c2ea3a0f203f619fdae3d868aa5dde40fd7edef87b
-Dermocosmétique
-5
-responsable :
-	Jean-Louis MONTERO
-FMCH310
-a1420f7f2253eb4a55c78956e5be48470b0eb0e85b10aa0525f34cf52eeca297692ba54fbada3caf
-Méthodologie appliquée aux produits cosmétiques
-5
-responsable :
-	Frederic GENIET
 FMCH312
 87727069643b2acb50ac71b4e9c4a7bdc7f58c5ab08f35cfb9a6e1355c59c4c16a34cf095a674b48
 Structure et biosynthèse des macromolécules fondamentales
@@ -4608,12 +4460,6 @@ Oligosaccharides et lectines
 responsable :
 	Alain MORERE
 	Christophe MATHE
-FMCH314
-2107e52f258bd9c58aeb6eefd45af2b77bfee45eae87d74ad5a795720302c5109412f60dc2e19bab
-Oligonucléotides et analogues
-2.5
-responsable :
-	Jean-Jacques VASSEUR
 FMCH315
 8cd593791f4421837f96eac578bcb8c2a774ac1baa6737498891d306f7ce4c749d5f2ad47eb54e6e
 Composés lipidiques bioactifs
@@ -4633,38 +4479,12 @@ Ciblage et vectorisation
 2.5
 responsable :
 	Christian PERIGAUD
-FMCH319
-c96c9672502542af3b4cfe1e8feeab9807f936775fb099452573e2b705a97729390ea3bdb96037a0
-Enzymologie et bioconversions
-2.5
-responsable :
-	Valerie ROLLAND
 FMCH320
 76d4082ebbb5e3057b96645a45ae0d79c1cdecd3dfeea6acc14d2c96106039d9f907a9c3a4a7bbf0
 Chimie verte
 2.5
 responsable :
 	Frederic LAMATY
-FMCH321
-1590ba35e3dfa1020ad1553877e6c3b58284f24f818fd86266fce407b1daf245ac676b90b3477240
-Formation et information scientifique générale
-10
-responsable :
-	Jean-Pierre UTTARO
-FMCH322
-91753c34a77c3f6f29ef5ec3238e8638d801462830d118c1097fb8a358a4b7180e95ca2fa064e428
-TER - Préparation au stage M2
-10
-responsable :
-	Philippe JUND
-FMCH323
-396f3250afea9bdbf847c0aa70d7b728c9259b147c198241b66303672371964af668dc7911038b09
-Radiocristallographie
-2.5
-responsable :
-	Gilles SILLY
-	Olivier CAMBON
-	Werner PAULUS
 FMCH324
 b14a74b1a59106724ce33454fcc8e13f8188b64ff4d1dba1626ab073b6bb45e01ebb7c4725c3d8be
 Ingénierie des matériaux moléculaires.
@@ -4672,20 +4492,6 @@ Ingénierie des matériaux moléculaires.
 responsable :
 	Françoise SEREIN-SPIRAU
 	Jean Pierre LERE PORTE
-FMCH325
-3ded5015bc5022888468ebe193e97201ea0a5dd2ed0ce1c880b2d24f1c91775ef9cf1a3c3bf01213
-De la solution au matériau oxyde : Procédés sol-gel et synthèses hydrothermales
-2.5
-responsable :
-	André VIOUX
-	Nicolas DACHEUX
-FMCH326
-51ebe5ecd2e4d905b766e22f7e09c397a57c7ac4e16052e54397984f2a55205c25cb5211558dec7d
-Surface et Interface : fonctionnalisation, greffage et organisation
-2.5
-responsable :
-	Bruno BOURY
-	Bruno BOURY
 FMCH328
 040e48f07a3557f006392f1ae8020ce88b45dd8938c59218770cbe7934a1e13ed20de8142795c72f
 Matériaux pour la Santé : conception et préparation
@@ -4694,65 +4500,6 @@ responsable :
 	Jean-Marie DEVOISSELLE
 	Joulia LARIONOVA
 	Sylvie BEGU
-FMCH330
-dc893260ee3717f8ced9d78df2af1b36d8887aa143f30230a95e649d93b47cd66e2c9765b9e7cc6e
-Spectroscopie du solide  : RMN, vibrationnelle, absorption X
-2.5
-responsable :
-	Gilles SILLY
-	Jacques ROZIERE
-FMCH334
-2c88c29ddb8159ed35e7fee6b8fd8fdc541520c72226dedb0b3460b2edea52bb69dd9d8bb56b4c2d
-Méthodes d'analyses micro et nanostructurales : microscopie et applications
-2.5
-responsable :
-	Nicole FRéTY
-	Paul GIRARD
-	Sara CAVALIERE
-FMCH335
-059fa006c890b098c4a457b1e6ddb851b008a9dcb66cb1918b72ffc807e0ceb094734a45c7775926
-Interactions rayonnement-matière. Radioprotection
-2.5
-responsable :
-	Csilla GERGELY
-	Marie-helene HENGE
-FMCH336
-67c8dc608d1cbc2e1a5390766566aedb1d53cbeb5d7938ba3c5dec5f70c7ccc014c3b8576e15479c
-Ingénierie de Matériaux
-2.5
-responsable :
-	Jacques ROZIERE
-	Jean Claude TEDENAC
-FMCH337
-f69b65304f73a31c5c75fea673edb933fd1696974489de23d06f10b133c64429e3bda6760400f8b1
-Structures, Microstructures et Défauts dans les cristaux
-2.5
-responsable :
-	Claude BELIN
-	Monique TILLARD
-	Philippe JUND
-FMCH338
-0968c32ab27d0c156ec5bc724988a7eece2e6428022f293dd6d8de72c88b00afdfce2b94b976086e
-Transport électronique et ionique dans les solides : application aux matériaux pour l'énergie et l'environnement.
-2.5
-responsable :
-	Annie PRADEL
-	Philippe JUND
-FMCH340
-625f07fd6d55599e93815726cc824a2a53b2163f194060cac7e8a1ccfd9a32c4e9e1e0993a76af4a
-Phénomènes interfaciaux
-2.5
-responsable :
-	Jerzy ZAJAC
-FMCH344
-16b641257cb243fe2d1513995502f417b42cbe8b1dbb910504844da2ea9f4c1277703525a78fe920
-Matériaux à propriétés spécifiques : matériaux émergents
-2.5
-responsable :
-	André VIOUX
-	Jacques ROZIERE
-	Jacques ROZIERE
-	Joulia LARIONOVA
 FMCH345
 ab54f9d37eb87b1068d6c991ce87578c76bcb37de60e39a0c0a503476aba5ad59b7aff168202ae1d
 Dispersion solide-liquide : formulation et caractérisation des suspensions
@@ -4766,18 +4513,6 @@ Physico-chimie et technologie des dépôts
 responsable :
 	Andre AYRAL
 	Florence ROUESSAC
-FMCH347
-10ecec08eeb1a24efc82e48d8c14cc9efec4a26abb48ee003e0c813ca30606af9f2cc6ab7ad66b16
-Caractérisations des particules solides : granulométrie, zétametrie, BET...
-2.5
-responsable :
-	Jerzy ZAJAC
-FMCH348
-f8b8dd77f94c4be8830c630031f0390d3c661a8718904d3c577e201a28254a243b01e24d7912db08
-Techniques de caractérisation des interfaces et propriétés des couches
-2.5
-responsable :
-	Gilles TAILLADES
 FMCH349
 95d6181ae1d451dd2aa119cc330f798d82871468a710e63ebb9806337103b92df391fce1ffbaaa2b
 Caractérisation des particules solides et des matériaux poreux et consolidés
@@ -4790,52 +4525,12 @@ Dispersion de gaz  et dispersion de liquides : mousses, émulsions, microémuls
 2.5
 responsable :
 	Serge LAGERGE
-FMCH352
-ace4afb03dd7037bec7f26891181cfe70f8cdd67343615106490292b2f230ef65168470cf711bece
-Encapsulation
-2.5
-responsable :
-	Clarence CHARNAY
-	Serge LAGERGE
 FMCH353
 4ad89bf297067c78e88bb66f1a3fb64a165e13c66b954ea3242d8a4cf1c6e6d3919be02ccfce24c9
 Technologie des mélanges en phase liquide
 2.5
 responsable :
 	Denis BOUYER
-FMCH354
-e42a02e032ef1340451d63f9ea802d8fdc4f4f43af152d3d707f66196b6af8112fb2d78e71f07f2e
-Matériaux actifs et adaptatifs : couplage et commutation de propriétés
-2.5
-responsable :
-	André VIOUX
-	Jacques ROZIERE
-	Joulia LARIONOVA
-FMCH355
-e3d2a74c0f02390a726750b01418b5c7baec9a310aeb037ad609c502e7bc0d84b3be5f3e22e69c1f
-Couches minces et revêtements métalliques
-2.5
-responsable :
-	Jean Claude TEDENAC
-FMCH356
-de8be2a84bd6c3e2b82699a6da6ca165261e6828d65d510aa1afd8cb30cf6ae9086523515ffaeabb
-Revêtements durs et barrières thermiques
-2.5
-responsable :
-	Florence ROUESSAC
-	Jean DURAND
-FMCH357
-2dfaa96573307035bb3b7b7d15ba56de54aa1a2b6982be04ba2b2d645012590e0d9a6ffd186ad6f0
-Interfaces et multimatériaux
-2.5
-responsable :
-	Vincent ROUESSAC
-FMCH359
-3b8e09ac9df109f41409c4f940ccd9cd8ef92055619b6d9ae7c59ebfe483297112310fae1818f9cb
-Peintures, vernis, colles et adhésifs
-2.5
-responsable :
-	Olivia GIANI
 FMCH360
 5234b5a02be331c5a4f630b29694d8b385781298515fef5f406855e72632a0dad4470e9253db1204
 Préparation, post-traitements et manipulation des poudres
@@ -4848,13 +4543,6 @@ Elaboration des matériaux poreux et consolidés
 2.5
 responsable :
 	Andre AYRAL
-FMCH362
-3f658591c8dcf3e0c8fd107a2cfe1ccf17a2a99e325f171c066721b5c674176e85f826f83240cbcd
-Traitement de l’air, adsorbants et échangeurs ioniques
-2.5
-responsable :
-	André LARBOT
-	David CORNU
 FMCH363
 bb19146648dc624928712855492a6627bf7113368974bb0473d78c9fff1e5d3c5834fa671c10e9cd
 Applications des matériaux poreux à la réaction chimique
@@ -4875,26 +4563,6 @@ Stratégie analytique pour les actinides
 2.5
 responsable :
 	Nicolas DACHEUX
-FMCH367
-e5dd9e2675bb65da82c68c842eae8f2fedf7df96fc6ee41f7e1f105ce69e83fd0da512e00821b8e3
-Comportement à long terme 1
-2.5
-responsable :
-	Nicolas DACHEUX
-FMCH368
-5bcd45adca97e37ece653424ef5bb70dd4cfcc1e885444361039720afc9429d60a93217c22c4b2ba
-Simulation en chimie quantique
-2.5
-responsable :
-	Dominique GUILLAUMONT
-	Jean Sebastien FILHOL
-	Nicolas DACHEUX
-FMCH369
-056432422281aec75e22b1ad000bedab046064d6b5f9ae40c050521d9aa3f53449ab1171b04b738d
-Matériaux nucléaires 2
-2.5
-responsable :
-	Nicolas DACHEUX
 FMCH370
 fab487058af62e42dc9abebb8ec686d04652dbc9e5490f7efb6c1eeabd0664aaafde056f0c6cbc3b
 Procédés de traitement et de conditionnement des déchets
@@ -4907,83 +4575,6 @@ Procédés à membrane
 2.5
 responsable :
 	Delphine PAOLUCCI
-FMCH372
-89898f81520f8816f8138eaceebb2a08ab98fecd2759961ef50d9b491188248d63d39058ce399489
-Comportement à long terme 2
-2.5
-responsable :
-	Nicolas DACHEUX
-FMCH373
-e9f3419641893855b36ea1037adbfa78e77e07f5ce68b35765d03f8d2336b4947971bb0a4ee15ad6
-TER - Préparation au stage M2.
-5
-responsable :
-	Andre AYRAL
-	Nicolas DACHEUX
-FMCH374
-334c814a222cc1c1b5d11a9b5ace0f0a6ec9d48f0249a4c89238744a83f656703687fe2a9e704b61
-Synthèse Organique Fine
-5
-responsable :
-	Frederic COUTROT
-FMCH375
-c6e6eef60f3afbdd6182ee932394a717f84e8eb6290e092753e705053512a25afadc92970ea8b1a9
-Techniques de Laboratoire
-5
-responsable :
-	Jean Yves WINUM
-FMCH376
-c874cd1657680cb4006ae3e7325206dec11dc48511998dc92c546c8470db125aa4f5db70888e7d46
-Analyse
-5
-responsable :
-	Isabelle TOURNIER
-FMCH377
-2cc1bf3a9b41871ff9a5a699bf2447972a281762f59ffd48355ab1a30d61d3050b8b075a3769f220
-Propriété industrielle et Expertise chimique et biologique
-5
-responsable :
-	Alain MORERE
-FMCH378
-0013b40d422ab212ab0be6f49bf59db542ec375d3babf506c02dc8a3c6f140be74635b8d9c876cd6
-Conception de Médicaments
-5
-responsable :
-	Christian PERIGAUD
-	Christine ENJALBAL-GOUBET
-FMCH379
-b2ccb3f83811609f65506e199048f58bd9ada7aff3998872a38ecb15b83adb6c44f7ed4fcd905ba2
-Peptides et oligonucléotides: Synthèse et applications en biotechnologies
-5
-responsable :
-	Christine ENJALBAL-GOUBET
-	Gilles SUBRA
-FMCH380
-545b9da569a636e1e6bec9d18284f62bea279e22094bebf0f6ca23d953e4a221f3eb20cb1f965d17
-Chimie Combinatoire et Synthèses Automatisées
-5
-responsable :
-	Christine ENJALBAL-GOUBET
-	Gilles SUBRA
-FMCH381
-06eba7d6d5e146bc8bbf6ca483c5c10c849c285c13af3dccef441ea16a9279efd761b196ba6c896c
-Spectrométrie de masse et Analyses à haut débit
-5
-responsable :
-	Christine ENJALBAL-GOUBET
-FMCH382
-4522eccd4a4e2bdb437001164dd452e0d1d10cee06da4696bc9781689afc524e65434b87ca50cdc6
-Criblage à haut débit
-5
-responsable :
-	Christine ENJALBAL-GOUBET
-	Didier GAGNE
-FMCH383
-97d7b06ccb17795ea687e4243a524b5c3efd05f545eed815325873d589aff15d081f9f2a651179bc
-Protéomique et Bioinformatique
-5
-responsable :
-	Christine ENJALBAL-GOUBET
 FMEP300
 5952058a73f566400177c6bc7eb6406d42c7a7ecc64c1d207c4eb30f79387b79fcf49baeb1f5ef73
 Mathématiques 1
@@ -5048,124 +4639,78 @@ f7d53387696ff0544b4fe764bb0b0048815cc5de1dcc2058eb6b3a5335a11134897e530fa1d77328
 Prolégomènes Algorithmique et Systèmes
 0
 responsable :
-	http://www.lirmm.fr/xml/fr/arigon-05.html
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	Anne-muriel CHIFOLLEAU
+	Pierre POMPIDOR
 FMIN125
 3fe9089ca160d750bc51841c36d9d976270ea656091373f55eb0020abf61bad10b188b923a5d7584
 Acteurs, territoires, Gouvernance 
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 FMIN223
 7ba5e7efd72f799b221521cec13f15db4d90c40f6c323aca02c8a5979effc0d48d3e0508d33b969e
 Technologies du Web
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/scharffe-05.html
-FMIN301
-b0f9ae8b06dcd9d761227ab8062f38a1057edc23142f3a38b3caf02559ec4da052c6081fcbabdf1f
-VIE PROFESSIONNELLE
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
-FMIN302
-e3ae1a5a8891adea82d91ddb628c844583827e0d2b21ef2a5d9002431d40e23253838fcbada74c4b
-Théorie de l'Information
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/lafitte-05.html
+	François SCHARFFE
 FMIN308
 c453ad8e9fbeb7ad081fbc95404f49d0275f4964d8fdf1a0f5227f5cc385963c67a99bf0a95033a8
 Contraintes
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
-FMIN309
-39fcada9b0f64360d5d384ea39cd0fcb7f22533e634989bb0ed3a4a10f05415bf0ac23dd7f5e49ca
-Ingénierie des connaissances
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/mugnier-05.html
-	http://www.lirmm.fr/xml/fr/leclere-05.html
+	Eric BOURREAU
+	Rodolphe  GIROUDEAU
 FMIN310
 6ce8a26086ce8e29d9ecf02513dd51955617900e39221dcf7184ac956ddf54fddcbecf1dd262157f
 Ingénierie des modèles
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/nebut-05.html
-	http://www.lirmm.fr/xml/fr/huchard-05.html
-FMIN312
-712a7cb1e6f2684cac581714b9fddb9e885f5c836a9678cab6da54744a76607bbbfad25fdd79615d
-Technologies avancées du Web
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/delort-05.html
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
-FMIN314
-6f2b9512fd0d01e6e475314795d868a331ad5cfb3de1d76207e755e866f838a152deb74f2e99f0d0
-Langages à objets à typage statique
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/ducour-05.html
+	Clementine NEBUT
+	Marianne HUCHARD
 FMIN315
 099130d929417ca4ba2e54546da8b5bc5b91838d68c379d0f13da9c624b6ba8e233c062633b3b3fe
 Ingénierie des protocoles
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
-FMIN318
-4caed5a950c83538776db0fa5b6835d8159180def25fad18162424cc6c32273886364fb884b20f8f
-Treillis de Galois et classification
-2.5
-responsable :
-	http://www.lirmm.fr/xml/fr/huchard-05.html
-	http://www.lirmm.fr/xml/fr/liquiere-05.html
-FMIN327
-82906f045848cd3ad3aeb5d6e5953e9c1ac1e2a3ab1a2cfcacf02608d745961ebd5fe04ce939718d
-Cognition individuelle et collective
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/ferber-05.html
-	http://www.lirmm.fr/xml/fr/prince-05.html
+	Rodolphe  GIROUDEAU
 FMIN357
 f9e2e27e63b29b805bf44a4f8e34575309e0bfa64532e55770fb6cb004706f157730dad72999c2fd
 Epistémologie de l'Informatique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bdurand-05.html
-	http://www.lirmm.fr/xml/fr/prince-05.html
+	Bruno DURAND
+	Violaine PRINCE
 FMIN358
 6d4b60a9e920f13efc737a2da647a89424163654ac1bf8e1e9f30e47571c4fef6bc7132d3c92d87d
 Technologies du Web avancées
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
+	Isabelle MOUGENOT
 FMIN360
 207410a70b0d6fa3ee60ccd5cb53b670ce4a1bf427fb8d8def34789687992b3b358669daae1d4bf1
 Réseaux avancés
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
+	Annie CHATEAU
 	Pierre-yves GOUBIER
 FMIN361
 504a0b0dc59b9086bed0270f2efd805ff6c63387aa48751ef156672e49e30133ae2727276559de52
 Fouille de Données
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Mathieu ROCHE
 FMIN362
 60bf8876018510519e38a00c0238c49c39342627b389542ad928b1d9012bd3f77cec4fcb365a5912
 Programmation avancée
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
+	Isabelle MOUGENOT
 FMIN375
 38cf2f0ae8d62d79a4dbc8458d7883428a0c63fb613b5616e750752e2f8c2c9b9769957f2692c582
 Analyse spatiale avancée
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 FMMA105
 5cbf208dcbb98fa32628aa47cf1ccff08a18d98eaad92afc6a965d45e478888919bce661ab39f9ac
 Analyse Numérique
@@ -5681,8 +5226,8 @@ FMOM302
 Rôles des micro-organismes dans le fonctionnement des écosystèmes
 2.5
 responsable :
-	Alain BRAUMAN
 	Behzad MOSTAJIR
+	Brigitte BRUNEL
 FMOM303
 6dd1325dc9f3ac6bbcc004bd7f605b3fcd2cbf7a6d74034c8dcc68b269a4d6134a5e265e085d4723
 Emergences de micro-organismes et changements environnementaux
@@ -5800,7 +5345,6 @@ dc2bb36746d52cc8d32c0df09d7d2d5d0dbc21d9842a3579cf2df333c97721d4364b68f54e5d118e
 Hydrogéologie des aquifères profonds et eaux thermominérales
 2.5
 responsable :
-	Andrea TOMMASI
 	Christelle BATIOT-GUILHE 
 FMOS326
 505f5235089fb30b0f4a253f97472abcca89848c2bd3c846889edc93a51f3f1702fdf763b8b7dbb9
@@ -6338,7 +5882,7 @@ Conduite de projet Stic Eco Environnement
 responsable :
 	Catherine MOULIA
 	Olivier GIMENEZ
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMBE341
 b8879a2bf2ad1d56334cd2381df17dc655b96e20f30079a9ca16ba9f31d50e67b262f7227dbc4443
 Synthèse bibliographique DIPHE/SAEPS/DEMPI
@@ -6455,11 +5999,16 @@ GMBE358
 Révisions de l'écrit :  synthèse des connaissances et démarche explicative en SVT
 22.5
 responsable :
+	Cecile MEUNIER
+	Jacques FOSSATI
+	Philippe MUNCH
 GMBE359
 6cde29887ec396b7da008d54455675a4d2d9db28bdf881cfd169d36e1671ec7b6169112078953bee
 Relations pédagogiques et interpersonnelles
 2.5
 responsable :
+	Christian REYNAUD
+	Daniel FAVRE
 GMBP119
 b8d70d18b8c96fc65fe29e628840501bca402784821e51ae0bf7d79a2fa595f0c2901b131d72e786
 UE1 de la mention
@@ -7022,27 +6571,6 @@ Réactifs d’hétérochimie en synthèse
 2.5
 responsable :
 	Françoise SEREIN-SPIRAU
-GMCH313
-7921f96bc0c79734f51705bb1dc40d0b770b2699562259f25a2193a768786fcf8d8019a732a621e0
-Anglais Professionnel
-2.5
-responsable :
-	Isabelle TOURNIER
-GMCH315
-dc9704f0ca09f18be307d05ed6e9ada9a3183ba0b5758b97403d8b5a6f24803d0fddcc2690bc3031
-Phénomènes de vieillissement des matériaux
-2.5
-responsable :
-	Jean-Jacques ROBIN
-	Jean-Louis BANTIGNIES
-GMCH316
-9a883431042836b145dd219fbe223ddb4c52829aeaaf9dd58ccd17efd545dec5afd691544e2c9b6f
-Matériaux moléculaires fonctionnels
-2.5
-responsable :
-	Françoise SEREIN-SPIRAU
-	Jean Pierre LERE PORTE
-	Philippe JUND
 GMCH317
 d8ebb28bb1ec795b3254bf24052ad838d4aae630a9e3c282c2cfec4720359c537d3de043750e0943
 Catalyse Hétérogène et protection de l'environnement
@@ -7377,20 +6905,6 @@ Membranes for gas separation (UTwente Pays-Bas)
 5
 responsable :
 	Andre AYRAL
-GMCH34C
-e8647525117bc4333de05672d077cea39950f0b0cd23f63568653c16e97f932b4c504497a7baf21a
-Conversion stockage de l’énergie: batteries et piles à combustible
-2.5
-responsable :
-	Nicolas DACHEUX
-	Stéphane GIN
-GMCH34D
-a8a3b18c7047a95e035caf92611bbe479a89a603ddb6ccc569968949d032c852dc2056b52501261c
-Matériaux en couches minces et micro-technologies
-2.5
-responsable :
-	Gilles TAILLADES
-	Jacques ROZIERE
 GMCH34E
 9376371a581b82738d55cdf91a1bfa94435cf4cbdbc14bda93190eb834929f26609d9813bdbf0dbf
 Comportement à long terme : matrices vitreuses
@@ -7430,12 +6944,6 @@ Phénomènes électrochimiques et transport dans les solides
 responsable :
 	Francois HENN
 	Sabine DEVAUTOUR-VINOT
-GMCH354
-3c9463113ad3c2cdd760d1eb8c8b61281318b4f108d6794d3b3ba626301721396752e00bf9c56d9e
-Comportement mécanique des matériaux
-2.5
-responsable :
-	Matthieu GEORGE
 GMCH355
 89f088e394dea3b2c81c2b27cb9a86f296dbf7dd6657c28863accd75b7cd6b1178e49ef053562ba6
 Connaissance et droits de l’entreprise
@@ -7462,20 +6970,6 @@ Unité expérimentale : analyse par spectrométrie de masse
 2.5
 responsable :
 	Christine ENJALBAL-GOUBET
-GMCH359
-57efa4351dd70dfd3d568d71077d931d24d5d0631256c074dc1ccd7f58ce5d69df5bdbc04dd75eb6
-Catalyse hétérogène, protection de l’environnement
-2.5
-responsable :
-	Monique TILLARD
-	Vasile HULEA
-GMCH35A
-bf913d5f91920f7971670bc13fccb96b656671676b692c9e0e3c695e3ffad2477f3e2b96170c01d1
-Cristallochimie et défauts dans les cristaux
-2.5
-responsable :
-	Monique TILLARD
-	Vasile HULEA
 GMCH35B
 b033240bf465ecce8e65e731a60c8e8839bd65ba6f66f40e26e31c786f2542139fa019b1c6da4994
 Actifs cosmétiques
@@ -7735,67 +7229,67 @@ GMEE321
 Robotique 1 : modélisation de robots
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/brunojouvencel-05.html
+	Bruno JOUVENCEL
 GMEE322
 274617aeb8fe39cf77306fa0a31ac5489885fff6cc0e5c93c15db274167abc603fe152d1cac990b9
 Robotique 2 : Commande de robots de manipulation
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/brunojouvencel-05.html
+	Bruno JOUVENCEL
 GMEE323
 0c01984f4375b8b8f61bd456a3d15762745e2808bd02f7050fbefd5cdca46504113e81527b1b529e
 Robotique 3 : Commande de robots de service
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/brunojouvencel-05.html
+	Bruno JOUVENCEL
 GMEE324
 903a2d8be1d6fd65585cbe0d1cdec094f08a2e646d1565b692475007df2312b73274d89f01267734
 Conception d'Architectures de Contrôle
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/brunojouvencel-05.html
+	Bruno JOUVENCEL
 GMEE325
 e6da5f0612fce1175ce53adc0693b6b9781aa59b6ef87bd8dfea1f15f9f2c6c9a90d390cdade764c
 Optimisation et programmation avancée
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bosio-05.html
+	Alberto BOSIO
 GMEE326
 57ea2ee8de78fc0aafc05d03040d81ba42b36b8881f416b2aa3e4b263a60a7c545ce51948f63130a
 Vision 2D-3D et fusion de données
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/strauss-05.html
+	Olivier STRAUSS
 GMEE327
 034d75df1c248d4683ac3b9ec1c3034f9f07e4383d35f2fd7863bbca2be1c9410ca6f42cb0e71849
 Test des Circuits & Systèmes Intégrés
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE328
 15ee87766e9da7e4e12eb66ff5d585f427d924db289714451bd1969029675116540745f328e3ccb6
 Conception de Systèmes sur Puces (SoC/SiP)
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE329
 eba49e94fa9d3a847a3c337c346f35a8b9caaa39b3ca3ff2002102d6f0e5f000c1424535f5bdf1b5
 Circuits Intégrés Numériques
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bosio-05.html
+	Alberto BOSIO
 GMEE330
 bf0f8322719952bd72f2618a71ee7a118e2a36e6033e0c6f7febfae5453011f091670f9ada3d9b78
 Circuits Intégrés Analogiques & MEMS
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE331
 c98fc14b882d234dadd324cf3f483355ec6c0b83a306aa65d20e9be55515e0beca8e033b3546967e
 Ingénierie de la CAO en Microélectronique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bosio-05.html
+	Alberto BOSIO
 GMEE332
 d13cf57c0355e88be62d59abc9e855642db8fc7126efe48d874bfbf1bfdcbeb152c04db46c69f2a6
 Modélisation numérique des systèmes spatiaux
@@ -7849,7 +7343,7 @@ GMEE340
 La relation pédagogique : gestion du groupe classe et autorité
 3
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE341
 f24d7a37e82af41538abf293d9ceb07bdda31eebd23a9ccd20e198eeacfa0935007a3afbdb17ee57
 Microfabrication/ microfluidique
@@ -7881,7 +7375,7 @@ GMEE345
 Exploitation technique et pédagogique d'un processus industriel
 7
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE346
 b0f8507e5e03fc312ae9b609d5805accfbf7daf10f7a0b1b24795f4e093eab50fe12d5906bad338c
 Modélisation/ Régulation
@@ -7994,7 +7488,7 @@ Changements globaux et pratiques émergentes : échelles et acteurs
 3
 responsable :
 	Jean-marie MIOSSEC
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMHD31C
 f0fecb8a89efdc1a04646edacd523c08d36f6446101bd714819a138c7d8af2e3cbe3eab935291fc9
 Mise en situation professionnelle 1
@@ -8051,7 +7545,7 @@ GMHD32A
 SIG en collectivités territoriales
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMHD32B
 c06c2b600dcfedf3c4ac07cd57bc1a1e764eeddf6dc3a4103330a253842051da931c64c261d2dd42
 Systèmes distribués pour les sciences de la santé
@@ -8063,8 +7557,8 @@ ed2e026bd257cb29fdf192bc214119f6fa7604d3abaf38f5fc895c809862e116974cf284301afce7
 Analyse et conduite de projets
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/seriai-05.html
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
+	Abdelhak SERIAI
+	Eric BOURREAU
 GMIN114
 49ca91aa31e504942043fb6bcdee42de7f306526db9e3059771342158a3d55c17fa43de1788c2c80
 Modèles dynamiques en physiologie et biologie des populations
@@ -8076,21 +7570,21 @@ c0c629851768f6a6373243622dd67ff1d48a2f695faf1cff7cea94b71da5a6244d309de92b706557
 Fouille de données
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Mathieu ROCHE
 GMIN302
 54289c8c288098ece30a9e3054f083df34d8b94d4052e3bb9cfc33953723fafd5805a03a46a65de6
 Optimisation Combinatoire & Graphes
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Alban MANCHERON
+	Rodolphe  GIROUDEAU
 GMIN303
 359f98bd99f4c10a73107a260780cbc451a6ea85a96aada93ad6c6512d84e2ded73f884265efa353
 Technologies du web avancées
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	Isabelle MOUGENOT
+	Pierre POMPIDOR
 GMIN304
 16e2d7caf1d716222d35db5d4284a51f04f2439f8f7173f6d91b3a65f89d019f7c97a53d4be6f528
 Structures de molécules
@@ -8103,113 +7597,113 @@ ae4bb0ab92b816daba169dc23189af6e94c2cd630a567dfa3de81d9956aa7b1dbbae00a8b7126efe
 Algorithmique et optimisation pour la Bioinformatique avancées
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
-	http://www.lirmm.fr/xml/fr/berard-05.html
+	Annie CHATEAU
+	Severine BERARD
 GMIN306
 13ccc07cfb48d0851c2e82158fdc0b84689c13d4d8dc974ccdee6973a47c44b11325d8ecdec0c630
 Logiciels embarqués
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/seriai-05.html
-	http://www.lirmm.fr/xml/fr/gouaich-05.html
+	Abdelhak SERIAI
+	Abdelkader GOUAICH
 GMIN307
 bd1656237dc88d386472a9e255637c095701c5a3c25b6dc26a0aa6b80fdef796b4082ec45afbf359
 Partage de données à grande échelle P2P
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/bouziane-05.html
+	Hinde BOUZIANE
 GMIN308
 b35cadaf552e3620bfcfd88cb0e0abb758bb380350898e6b631bc96f77a972877979fb9b50fafc22
 Administration BD Système
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Isabelle MOUGENOT
+	Mathieu ROCHE
 GMIN309
 ac29a24fc52dc60812a37fe83d2b646e632b26a474c599c3b6288ae11bfe33863be342883dc49d6d
 Technologies avancées du Web
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/scharffe-05.html
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	François SCHARFFE
+	Pierre POMPIDOR
 GMIN30A
 2df28ca8feecaed80a561c5b310bf2fef2fbe681b4809d4f22c664cef00b7f847c2c3b054e4b7807
 Informatique embarquée
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/seriai-05.html
-	http://www.lirmm.fr/xml/fr/gouaich-05.html
+	Abdelhak SERIAI
+	Abdelkader GOUAICH
 GMIN30B
 98b88a077399d78f3c692a4b7b00bce1f1ca859a923ba9def960e1e0f7a2c981f9ad2d42a09d21e6
 Imagerie médicale ATP
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/wpuech-05.html
+	William PUECH
 GMIN30C
 2572e430f612306261e4d7b86e57175760add19f2ee61633fe423dda048bd984e4970b442c306234
 Méthodes exactes
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/paul-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Christophe PAUL
+	Rodolphe  GIROUDEAU
 GMIN30D
 984cd10849ff9587f29008aed55a775d12fdcab8bdbe168b04688f43d74a96571ab9ca061134eaf5
 Réseaux
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/arigon-05.html
+	Anne-muriel CHIFOLLEAU
 	Pierre-yves GOUBIER
 GMIN30E
 e9024c2d0e4803bc11f99d4d09319dec3fbf7d44223fbf1effcf48704827ee603c93bde13ab2e9f3
 fiabilité du logiciel
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/dony-05.html
-	http://www.lirmm.fr/xml/fr/nebut-05.html
+	Christophe DONY
+	Clementine NEBUT
 GMIN30F
 d4a3f055c1a5846f560094feadac212c2c0978c22c5214ec4719d080af94d98337125cad09baa62e
 Composants et Réutilisations
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/dony-05.html
+	Christophe DONY
 GMIN310
 7fa0201694db3d28d5bf63207caa65a0288f25e6362e47b1d2f223e6268a7faf41a511e40343758d
 Métaprogrammation et réflexivité
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/ducour-05.html
+	Roland DUCOURNAU
 GMIN311
 5abe6bb1da219627ef0f8b19d01d92a267ddf87794caaf9c1f7f6623db24eea4bcad2abb7b2974c9
 Evolution et restructuration de logiciels
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/seriai-05.html
-	http://www.lirmm.fr/xml/fr/huchard-05.html
+	Abdelhak SERIAI
+	Marianne HUCHARD
 GMIN312
 a0185da93210a9ee3566480801cf425b89bbf982bb509f1ea1c632d441984ea35aa35cd5e4c0647a
 Visualisation d'informations
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mountaz-05.html
+	Mountaz HASCOET
 GMIN313
 d24288613ddeef3e40f7bedc6f3d78a02cd08c6ebfa53c24d56eb4d061370a715dac67eeb284f524
 Extraction de connaissances avancée
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/teisseir-05.html
-	http://www.lirmm.fr/xml/fr/poncelet-05.html
+	Maguelonne TEISSEIRE
+	Pascal PONCELET
 GMIN314
 7f781d01b52de4684f3601aaefa1dc13f2016573ae46209a57290e6fc462b3c8181cbef4e95f9f8c
 Combinatoire des mots
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN315
 7c730b67433974bfaa487426a3f46e9751451d82f8453a1af61c86b05ede1ddb8db237ec7e8c1a14
 Son et musique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/daude-05.html
+	Sylvain DAUDE
 GMIN317
 d74b5b079be1ef24e50760cbbb4ba30403b7d9e8c2522a28a1ad1ead0a49c6ea367dcc2d186891ba
 Moteurs de Jeux
@@ -8221,27 +7715,27 @@ GMIN318
 Cryptographie
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/negre-05.html
-	http://www.lirmm.fr/xml/fr/lafitte-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Christophe NEGRE
+	Gregory LAFITTE
+	Rodolphe  GIROUDEAU
 GMIN319
 3a51b4cd38d97e3a7742a9485286c2d34756e751c9ebdd8ca608c7d2d04c04279d28bf6907ed0d62
 Imagerie médicale ARV
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/subsol-05.html
+	Gérard SUBSOL
 GMIN31A
 5f6b73ac5454f5526d1d8a1a3aa0cd4c60bc03dbbc2cae8683926bfc0b5041ba27229e8284349cbe
 Modélisation géométrique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/fiorio-05.html
+	Christophe FIORIO
 GMIN31B
 fc52e0ca3def5ab7bb566589d54ca8d23d3697b6be5a5bca1858ac8fa2f81e79d7dee9d2ff4a1049
 Omique
 2.5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 GMIN31C
 ee36ed8f4da44f6f55e673953f17545ff595274bec6969ecbc2fcc0a4415088ac1b37a74e77e68f5
 Analyse de génomes
@@ -8253,82 +7747,82 @@ a7effc06a6d2aed7a041ab6de8d97b74196c21aec077746923c342386ce9a45dbd1da949af626fdf
 Spécification et implémentation des logiciels à objets et à composants
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/dony-05.html
-	http://www.lirmm.fr/xml/fr/ducour-05.html
+	Christophe DONY
+	Roland DUCOURNAU
 GMIN31F
 45a933b28dabe314b9e2451d7f3e527228602149b5c635df4801a7a6e6afd6fcf72c049df381e7c2
 Initiation à la recherche
 12
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN320
 6a289bf7ac784f4c08a42ced023282944ac4d695f6a935d527f3cd9b13c9745d9030ef358ac5a895
 Politique de transport et aménagement territorial
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN321
 a740f33889c9c3b22f06a77ec908254c364cbd060ea8706738562c5dd67aa72424e9c55b2a542766
 Imagerie spatiale et gestion des ressources renouvelables
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN322
 f6452804546e67876452cf586e2a0e62e4455cd30e2812904b684d7ea4f1b90fad2b8a191f66a636
 Informations, cartographie, web
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN323
 361f601fe36fe904c2f900ed579413e36ff282059476af9d3909e7bfc0359f96b06a7287755ae360
 ERP/SAP
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN324
 078336a5f7a61e79dfe83e631453522433afce49d239e000f8d6151fe18b421e99c8bfe1ad772fe0
 Serious Games
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/gouaich-05.html
-	http://www.lirmm.fr/xml/fr/joab-05.html
+	Abdelkader GOUAICH
+	Michelle JOAB
 GMIN326
 48de7855fdb39c2671eb7d82b4ef9383701b2a584a60a609f6f2db2faac30d0fb29e4c97e3cf46f6
 Connaissance de l'entreprise en géomatique
 2
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN327
 438bb609ade2fae1abf092b00bd2c912d3faa965e6de874411db87915c3083830f388cb8af30dfce
 Algorithmique, Programmation objet, Complexité
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/huchard-05.html
+	Marianne HUCHARD
 GMIN328
 14b776800e5856b760249c6d1e4194769be2c3aff6fb396426f30ca7c91826e4ae0dab2c8a4031b0
 Opérateurs arithmétiques et fiabilité
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN329
 6af049c85598232220dbdc6c30a983c79130eab660827688ed01c5c948c4c4641f7bdb3d946907d0
 Optimisation combinatoire
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/molnar-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Miklos MOLNAR
+	Rodolphe  GIROUDEAU
 GMIN32A
 f0eda99862a21367cb773a758d977504778c85f75982d06d00e532b06ef50e74e8fc715ef1f0cc5b
 Combinatoires et  structures discrètes
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN32B
 abdc987c77e4e15bafb9b4067c4b02239ab214d1a9a4aeb6f75aaaf56553b38cc6aac0528eae1ace
 Modélisation géométrique et représentation discrètes
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN32C
 1ca33c22f5b345647f9d9f2f4397d401e5512d90fc44bed2adadb868c26e87a484018eb431bcf1ce
 Recherche d’information et Web
@@ -8339,19 +7833,19 @@ GMIN32D
 Connaissance entreprise Juridique et Ethique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
+	Annie CHATEAU
 GMIN32E
 7b67f46b5f50aa2743db93823be2b8ae69f36508cb4af797711e9a1d6880c42ee195bb3432396120
 Théorie des Jeux
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN32F
 14c2058c2a784367c32f33810f9207e2ff1b0d7a29fa1f71a14cd07bb6e9f0982d9e670a3a19bd45
 Vision Assistée par Ordinateur
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/wpuech-05.html
+	William PUECH
 GMIN330
 ed2eaf70a888dc06ff210d8cc440aa561e429893ac6ca55287b585cd282e4239cacdb5045c03405a
 Réalité virtuelle
@@ -8363,52 +7857,52 @@ cb0a0f7dc478dcf1a605d5d2c4cf4f74361fc9f63acd55765417d277b1140dbc07de36cc7656092c
 Théorie des bases de connaissances
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mugnier-05.html
+	Marie-Laure MUGNIER
 GMIN332
 e9dfd54ff5001032c55494eef67caf2ebc4b560b9bc81826231b2ca0bc0095bc434b8b4c3d5891ab
 Gestion de données complexes
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mougenot-05.html
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Isabelle MOUGENOT
+	Therese LIBOUREL
 GMIN333
 65ebebf4b3a8b4b24e88f576ea6c3ddc9a18f0a0991b1762f301c8f52a539cf54c6231a2ed5137c3
 Gestion de connaissances pour l’aide à la décision
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/kaci-05.html
+	Souhila KACI
 GMIN334
 f91da5225c710733fb72636731290a5f5f692ec5cacb41306374adbd5d681f7295ac374e4af658ea
 Sociétés Virtuelles
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/ferber-05.html
+	Jacques FERBER
 GMIN335
 30c1a2da40adabad9872d9c3a3c7dd15b57b534cd53b34c5388bb6bf9a7965c4cb2416e48847a823
 Fiabilité numérique et haute performance
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN336
 312e9bf67cdee07958c6e0e64ea60d652ffabcd404e5cbc93be8ca646fc203e3092862215526293b
 TALN : sémantique et fouille de texte
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/lafourca-05.html
-	http://www.lirmm.fr/xml/fr/mroche-05.html
+	Mathieu LAFOURCADE
+	Mathieu ROCHE
 GMIN337
 aa6adbf0a447d1dd221541c8d73fef3446e4669fb64fc65a63926ba59e4709a6371882531b65aa3a
 Modèles aléatoires et analyse de performance
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/baert-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Anne-Elisabeth BAERT
+	Rodolphe  GIROUDEAU
 GMIN339
 640b012e5d47a873fc0842339fd0c5c0236c18382e1f0c572d81d9aa3b96d246be0d7bd93857992f
 Images : compression
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/wpuech-05.html
+	William PUECH
 GMIN33A
 5b359b95d4f0b591052efd070faa625b21d695bcfe64b60721cec96d517895d84b3ceacbd5416201
 Modélisation des phénomènes physiologiques
@@ -8428,18 +7922,12 @@ Modélisation paramétrique et non-paramétrique
 5
 responsable :
 	Maurice HAYOT
-GMIN33D
-94e7dc5e8a9086241ef795bd5cb2ca6f34209d436abe8e5ef0c375bb72cb9e1b609f79aa430710d1
-Logiques pour l'IA
-5
-responsable :
-	http://www.lirmm.fr/xml/fr/mugnier-05.html
 GMIN351
 0d121deae23e60017f857cb3ab134aab7f11d5ac373dd7ef9e481500f9c07e9cf81d377bb57335c8
 Projet M2 BCD
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 GMLV301
 818ec8054bd40cfb066febad906500f30578fd1e3aa07151b935cc4265b197064dfe137c327a4668
 Préparation au TOEFL (NA)
@@ -8574,7 +8062,7 @@ Initiation recherche / Vie professionnelle
 responsable :
 	Catherine MOULIA
 	Olivier GIMENEZ
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMPH301
 8aa7ef6fd8cfaa63909cc8611e979faddc9906ac3d1256ee6852b6da762d2ae23f701776916ef14f
 Thermique : cogénération, pompes à chaleur, moteur Stirling, centrales thermiques
@@ -8738,7 +8226,6 @@ Animation scientifique
 2.5
 responsable :
 	Sandra ARDOIN
-	Severin PISTRE
 	Valerie BORRELL
 GMST226
 e4f1447c50887cbb8a23afc31bdf01e58602d781b62ae0469af28d3d4d97e92c02a6fcdbd8aa77b0
@@ -9413,33 +8900,6 @@ Droit et gestion de la sécurité de l'aliment
 5
 responsable :
 	Michel LARROQUE
-ZMCH327
-bf7a87493a8407aec005cd087d6d1f9b79d2463a3441e0f64f1ea0ce3f2e6616fb09c3b7b56b68d7
-Matériaux Polymères
-2.5
-responsable :
-	Christine JOLY-DUHAMEL
-	Ghislain DAVID
-ZMCH331
-dcca1c454ad4a0dfa48b4a35bb83cf6a2be862a8ecf56305345a9d5e309a0b263a6f2d71469c5638
-Caractérisation du solide divisé
-2.5
-responsable :
-	Anne JULBE
-	Philippe TRENS
-ZMCH332
-d5133748aa669392e7e411977dfa0c3b14bd5a8ce59c33f7c58305e0aaad69d549ae36a4319c75a0
-Matériaux et Procédés Catalytiques
-2.5
-responsable :
-	Vasile HULEA
-ZMCH333
-021ad52ad939d8b01a62e88b97933f3892a932a076cc5fc177564145c0a59c3abe8920881e1e81c2
-Membranes et procédés membranaires
-2.5
-responsable :
-	Gerald POURCELLY
-	Sylvie CONDOM
 ZMMA301
 0b49be240ac2ce3ed3743b773bfb5f174386432c598c8018410a46ec326b354895cd8dace733d682
 Apprentissage des outils informatiques du biostatisticien
@@ -9511,95 +8971,18 @@ cf0aef2516ad0d44afd7a474c462dc1447846dffc3b340a79754289a350a4bb1238912befff7d6c5
 Bases pour un développement intégré (et voyage d'étude) (ZMOS322)
 6
 responsable :
-FMCH401
-12e524487dc0da10df1eb676a27a713c937d4da8e5cc14ddc926d5ee3ec691671349f811261e49a3
-Formulation arômes
-5
-responsable :
-	Chantal MENUT
-	Karine MAROTTE
-FMCH402
-9ee4801eb84bacb3be7efe3abe1a1c27ffd9784da5b0617672628806d2c839cd1a61fcfdae11e84f
-Parfumerie fonctionnelle
-5
-responsable :
-	Caroline CLAVEL
-FMCH403
-c9a551c68e867e5f08647c391d26a85512461a48f4582e18a205a7541d795a042be96bd3f21321d6
-Formulation cosmétique 2
-5
-responsable :
-	Veronique MONTERO
-FMCH404
-ce2b418c88e0041df3d20d382c84014e4eaf72d59603a5cdb867839eaa17b1596a605c5658ce7650
-Formulation cosmétique et analyse sensorielle appliquées
-5
-responsable :
-	Veronique MONTERO
-FMCH405
-7dd3915a7b77b7fd7b199a81e41d56bd4bcc7f4727c94eacac87120c7e29ee698414344e4b00f1dd
-Stage professionnel en entreprise Parcours Arômes Parfums.
-20
-responsable :
-	Chantal MENUT
-FMCH406
-1fd52dfd320420756cbe16ee1cc67e5fb3487e633f89819a9d628f8f3a7129ecf124a93982219199
-Stage professionnel en entreprise Parcours Cosmétique.
-20
-responsable :
-	Veronique MONTERO
-FMCH407
-d4d056bdbee56cd00f0caa40e3d7b4462b37c84d4ae973ab4164a0f11ef0d65d10417c89687bd304
-Initiation à la Recherche
-30
-responsable :
-	Christian PERIGAUD
-	Christophe MATHE
-FMCH408
-d6fdab667c8c8bce0b3db8957c9402994aa69cbc9f40d8ef592c2937e6be385d52833702a8f2eeaf
-Anglais M2
-2.5
-responsable :
-	Anne-Marie LLABADOR
-FMCH410
-bc2c8d68812afe100bf02864fac04a35d2efe590b01be4c5acb53bc1510f4c9a4364cd5b28bf653f
-Stage de M2
-30
-responsable :
-	Jerzy ZAJAC
-	Philippe JUND
 FMCH411
 4ee439d3f98bf4000fccf8d0b5adc329a84e113548cf11647f7930cd182a32a48e6451e2dc190552
 Communication, Vie de l'entreprise
 2.5
 responsable :
 	Stephanie ROUALDES
-FMCH412
-e963662e164974c9d8c52b583dc0a2ce33a30d59672a39b3e55ea3567e3ae522c46b7ffcbf62502c
-Projet personnel
-5
-responsable :
-	Alain MORERE
-	Isabelle TOURNIER
-FMCH413
-a2c394ff7b2454d2c9704d0a10679a8ce9b631a399466f26158e287e95f0dafe2ff3a5ab6139e27a
-Stage en entreprise SASA
-25
-responsable :
-	Alain MORERE
 FMCH414
 ce617ad81de410acff3efb30fd9227f86ab4c06b06c4739963fb0a17a47d12196eb11572bba9b8ae
 Information scientifique
 5
 responsable :
 	Christine ENJALBAL-GOUBET
-FMCH415
-89ce86f8f75f6bb4bb051fef863267f8ed85232b6cf37b06c6397f9810f75327dfc90e0be4d58c10
-Stage en entreprise SDMB
-25
-responsable :
-	Christine ENJALBAL-GOUBET
-	Gilles SUBRA
 FMEP400
 488fc200c69427ec5f087acb9432d580be66bc9c5969478ba9accfe07b7c8b88f064fe25eeea9ef7
 Préparation à la première épreuve orale
@@ -9643,37 +9026,19 @@ FMIN206
 Base de données spatiales
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 FMIN301
 b0f9ae8b06dcd9d761227ab8062f38a1057edc23142f3a38b3caf02559ec4da052c6081fcbabdf1f
-VIE PROFESSIONNELLE
+Vie professionnelle
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	Pierre POMPIDOR
 FMIN371
 86d314c284f2fbc4b03d05d24cf28b3a6acef6250d56591160a65757eb5303c36670f658e6211810
 Grille et optimisation (FMIN371)
 5
 responsable :
 	Daniele COSLOVICH
-FMIN405
-a2d2c9e2a9f7e99c14d7a285196bc5d7de6df8a1606a68bff26751fada234fba625608f7f733ecad
-Administration de bases de données
-2.5
-responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
-FMIN406
-a0f4de0e81b53b1738956b4dc1af2974ec7512f62c1019b0b20e41983d26d025778244edd50fdf9e
-Logiciels Embarqués et Ambiants
-2.5
-responsable :
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
-FMIN407
-592e0b35be2c78572b06f28a0b3ff3d6d02bb0cbcfbd7def940de9c122343d9491a0f97296ed2a28
-Qualité du Logiciel
-2.5
-responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
 FMMA401
 cdfee7faeb97a8a46111d2748d93fa7a7f07385ef980e8dc1d13ab1988012eebf6b5cdedc9cde41f
 Statistique des événements extrêmes
@@ -10115,7 +9480,7 @@ Stage M2 SDB
 responsable :
 	Jacques-Olivier THALER
 	Michel PETIT
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMBE421
 7550b47c23cbf3e03e6d1923bfaf0bb2843dbf3f8da7143601b62dc3b8d977bd1c58af979d3c1d42
 Essai
@@ -10487,38 +9852,38 @@ GMEE403
 Etude et réalisation d'un montage pédagogique
 7.5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE404
 ad33aa2cd504aba7ccf7883f25c453105d74f15dec733001cd7cc437bfb639572b73c6d77edc7c3d
 Travaux pratiques relatifs à un système ou processus technique
 7.5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE405
 6c245243ebff0c062467322b9259419c90dc613e87332cb46ae9903de117e3725926ed96d169bbf2
 Situation de travail, analyse reflexible et préparation de l'épreuve orale
 3
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE406
 df554d5a2055a93d575a1132b06af03418b9211caaa441d5468be7b4f21494b4fc0a5f4b9ef58801
 Séminaire mémoire professionnel
 3
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE407
 ae0f114d70aa8a00434f9a018a7c117acf170115b6a15332679adb7deccf5e36f9bf3f3ac72b57ea
 Anglais
 2.5
 responsable :
 	Anne DI COSTANZO
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE408
 ed50a3a492d7e325ff762412668db1b769697fed997e2389593ca392be6af9d119c890c9822c7c6d
 Stage en responsabilité
 6.5
 responsable :
-	http://www.lirmm.fr/xml/fr/virazel-05.html
+	Arnaud VIRAZEL
 GMEE40A
 5ea21f51bc4f2becde192894f5269fc14da99474b035bcfb136b4bbff8ae9eabf9edf8b1b2a0af0b
 Stage M2 Energie
@@ -10550,76 +9915,76 @@ b9fd4ffb860e56a0330f0193ccaf0fa221bcce12d93c5e30a9773e90e82835d94c85957adf067c80
 TER ou étude bibliographique
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/pompidor-05.html
+	Pierre POMPIDOR
 GMIN403
 72beff6d19c480737d4980b623c17b0f8bb76d63a054db26d52d81f6681cce8894fcc2138948078b
 Stage M2 IPS industriel ou recherche
 25
 responsable :
-	http://www.lirmm.fr/xml/fr/chateau-05.html
+	Annie CHATEAU
 GMIN404
 db5b2e730b0b2f42689cef70a38f3118b9af6ee05c8893aeec4a41e8d3d687444f4c05126d771cdc
 BD spatiales
 5
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN406
 82875f8f401c1b9c7f792907eabd7a8fcf2c23d1ebdc95d58c00ce3a5564e35aaac19d383c837f89
 Stage M2 DECOL en entreprise ou laboratoire
 20
 responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Eric BOURREAU
+	Rodolphe  GIROUDEAU
 GMIN407
 0a3efc2fde494370280793753b7e5f7d8e03752d6fffad4ef0e08705dd024f55ad7bf859ccb2cad4
 Stage M2 Recherche
 20
 responsable :
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Rodolphe  GIROUDEAU
 GMIN408
 c256c7f8ef500371a046608b3f86c66d53b9137da2efb8de214ebde938271673c531b317b4d7ea2d
 Stage M2 Professionnel
 20
 responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
+	Eric BOURREAU
 GMIN409
 fd23a968d090b839441bf74ec697e906673bb001879de2140bf3fc84ad6347e860731d78bdc07a9a
 Stage M2 AIGLE industriel ou recherche
 20
 responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Eric BOURREAU
+	Rodolphe  GIROUDEAU
 GMIN40A
 ca0d7bf63ef8d423a742f0e6479e9079c9b9677665145cbdc8313abcac3be03416a101141245ce7b
 Atelier Recherche - Problématique de la gestion des territoires
 4
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN40B
 6d5b320625cd110fc13fda2bea2e29498a95fe8bf741cd8f4d2979ee15170d4622fbd46cf6ba9361
 TER Travail d'étude et de recherche en laboratoire
 26
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN40C
 8be73d7999e31184845fb930115536fcd72e6453e00336e150bf8acafbb4a376d319305e73f251ad
 Stage - Travail en entreprise encadré - 6 mois
 30
 responsable :
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMIN40D
 a68373787529a685fb1cf3a1685ea3ecadc59bd53209a54e09b86298e1310467b3554f1f8625db6c
 Stage M2 IMAGINA  industriel ou recherche
 20
 responsable :
-	http://www.lirmm.fr/xml/fr/bourreau-05.html
-	http://www.lirmm.fr/xml/fr/rgirou-05.html
+	Eric BOURREAU
+	Rodolphe  GIROUDEAU
 GMIN40F
 0ef08deaf1ceba4ed4cd7257db37dcd8b8efcf03978705ac5f9bbcbb4287d74c8bd9d9c625287c22
 Stage en entreprise, structure hospitalière ou laboratoire
 20
 responsable :
-	http://www.lirmm.fr/xml/fr/mancheron-05.html
+	Alban MANCHERON
 GMLV401
 dc0c973cf318123f9eeb76b4521ce35976b1d96ec110de8073f4895eb7f47b58fabaa4406199fa92
 Préparation au TOEFL (UE surnuméraire)
@@ -10681,7 +10046,7 @@ responsable :
 	Catherine MOULIA
 	Emmanuel LE CLEZIO
 	Olivier GIMENEZ
-	http://www.lirmm.fr/xml/fr/libourel-05.html
+	Therese LIBOUREL
 GMMD402
 2447f43b40822960a895f33018b71e710d20e9e9242786dccb859ba24afbe2a838e6d2151405eabf
 Stage M2 TE
@@ -10920,7 +10285,8 @@ GMST402
 Stage M2 en entreprise / organisme
 25
 responsable :
-	Severin PISTRE
+	Herve JOURDE
+	Valerie BORRELL
 GMST403
 8a494bc1ef71e55ced87ce6b3387b07b67e3d9eeaa2594fe9b1799535398a7a5413db0202d8b2ef5
 Stage M2 en laboratoire ou en entreprise (GLM)
