@@ -6,10 +6,10 @@
 	<meta name="duration" content="10" />
 	<meta charset="utf-8" />
 	
-	<link rel="stylesheet" href="http://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" type="text/css" />
+	<link rel="stylesheet" href="styles/slidy.css" type="text/css" />
 	<link rel="stylesheet" href="styles/w3c-blue.css" type="text/css" />
 
-	<script src="http://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js" charset="utf-8" type="text/javascript"></script>
+	<script src="scripts/slidy.js" charset="utf-8" type="text/javascript"></script>
 </head>
 
 <script type="text/javascript">
